@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+    <servlet>
+        <servlet-name>FaultSectionLocation</servlet-name>
+        <servlet-class>FaultSectionLocation</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>FaultSectionLocation</servlet-name>
+        <url-pattern>/FaultSectionLocation</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ResilienceModel</servlet-name>
+        <servlet-class>ResilienceModel</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ResilienceModel</servlet-name>
+        <url-pattern>/ResilienceModel</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>temperatureInfo</servlet-name>
+        <servlet-class>temperatureInfo</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>temperatureInfo</servlet-name>
+        <url-pattern>/temperatureInfo</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>WeakLink</servlet-name>
+        <servlet-class>WeakLink</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>WeakLink</servlet-name>
+        <url-pattern>/WeakLink</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>shishiJiance</servlet-name>
+        <servlet-class>shishiJiance</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>shishiJiance</servlet-name>
+        <url-pattern>/shishiJiance</url-pattern>
+    </servlet-mapping>
+
+    <filter>
+        <filter-name>ChromeFilter</filter-name>
+        <filter-class>util.ChromeFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>ChromeFilter</filter-name>
+        <url-pattern>/admin</url-pattern>
+    </filter-mapping>
+</web-app>

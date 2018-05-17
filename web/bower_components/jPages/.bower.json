@@ -1,0 +1,11 @@
+{
+  "name": "jPages",
+  "_cacheHeaders": {
+    "Content-Type": "text/html; charset=utf-8"
+  },
+  "main": "index",
+  "_source": "https://github.com/luis-almeida/jPages",
+  "_target": "*",
+  "_originalSource": "https://github.com/luis-almeida/jPages",
+  "_direct": true
+}

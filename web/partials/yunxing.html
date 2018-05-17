@@ -1,0 +1,36 @@
+
+
+
+<div class="col-md-2" style="opacity: 1;">
+
+</div>
+<div class="col-md-8">
+    <table ng-table="yunxing.risk_access" class="table table-hover" template-pagination="custom/pager">
+        <caption>
+            <h1 style="padding:30px;" class="text-center">10kV出线实时运行数据</h1>
+        </caption>
+        <tr ng-repeat="riskinfo in $data" ng-click="yunxing.refresh()">
+            <td data-title="'对象编号'" class="text-center">{{riskinfo.ACLINE_ID}}</td>
+            <td data-title="'对象名称'" class="text-center">{{riskinfo.NAME}}</td>
+            <td data-title="'对象值'" class="text-center">{{riskinfo.VOLTAGE}}</td>
+            <td data-title="'对象单位'" class="text-center">{{riskinfo.CURRENT}}</td>
+        </tr>
+    </table>
+    <script type="text/ng-template" id="custom/pager">
+        <ul class="pager ng-cloak">
+            <li ng-repeat="page in pages"
+                ng-class="{'disabled': !page.active, 'previous': page.type == 'prev', 'next': page.type == 'next'}"
+                ng-switch="page.type">
+                <a ng-switch-when="prev" ng-click="params.page(page.number)" href="" >&laquo; Previous</a>
+                <a ng-switch-when="first" ng-click="params.page(page.number)" href="" >{{page.number}}</a>
+                <a ng-switch-when="page" ng-click="params.page(page.number)" href="" >{{page.number}}</a>
+                <a ng-switch-when="more" ng-click="params.page(page.number)" href="" >…</a>
+                <a ng-switch-when="last" ng-click="params.page(page.number)" href="" >{{page.number}}</a>
+                <a ng-switch-when="next" ng-click="params.page(page.number)" href="" >Next &raquo;</a>
+            </li>
+        </ul>
+    </script>
+</div>
+<div class="col-md-2">
+
+</div>

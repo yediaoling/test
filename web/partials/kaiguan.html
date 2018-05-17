@@ -1,0 +1,35 @@
+
+
+
+<div class="col-md-2" style="opacity: 1;">
+
+</div>
+<div class="col-md-8">
+    <table ng-table="kaiguan.risk_access" class="table table-hover" template-pagination="custom/pager">
+        <caption>
+            <h1 style="padding:30px;" class="text-center">实际拓扑开关重要度分析</h1>
+        </caption>
+        <tr ng-repeat="riskinfo in $data" ng-click="kaiguan.refresh()">
+            <td data-title="'开关编号'" class="text-center">{{riskinfo.KAIGUAN_ID}}</td>
+            <td data-title="'开关名称'" class="text-center">{{riskinfo.NAME}}</td>
+            <td data-title="'开关重要度/kV'" class="text-center">{{riskinfo.KAIGUAN_IMPORTANCE}}</td>
+        </tr>
+    </table>
+    <script type="text/ng-template" id="custom/pager">
+        <ul class="pager ng-cloak">
+            <li ng-repeat="page in pages"
+                ng-class="{'disabled': !page.active, 'previous': page.type == 'prev', 'next': page.type == 'next'}"
+                ng-switch="page.type">
+                <a ng-switch-when="prev" ng-click="params.page(page.number)" href="" >&laquo; Previous</a>
+                <a ng-switch-when="first" ng-click="params.page(page.number)" href="" >{{page.number}}</a>
+                <a ng-switch-when="page" ng-click="params.page(page.number)" href="" >{{page.number}}</a>
+                <a ng-switch-when="more" ng-click="params.page(page.number)" href="" >…</a>
+                <a ng-switch-when="last" ng-click="params.page(page.number)" href="" >{{page.number}}</a>
+                <a ng-switch-when="next" ng-click="params.page(page.number)" href="" >Next &raquo;</a>
+            </li>
+        </ul>
+    </script>
+</div>
+<div class="col-md-2">
+
+</div>

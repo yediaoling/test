@@ -1,0 +1,1138 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="viewport" content="width=1020">
+    
+    
+    <title>luis-almeida/jPages · GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
+    <meta property="fb:app_id" content="1401488693436528">
+
+      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="luis-almeida/jPages" name="twitter:title" /><meta content="jPages - Client side pagination with jQuery and CSS3" name="twitter:description" /><meta content="https://avatars0.githubusercontent.com/u/1159544?v=3&amp;s=400" name="twitter:image:src" />
+      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars0.githubusercontent.com/u/1159544?v=3&amp;s=400" property="og:image" /><meta content="luis-almeida/jPages" property="og:title" /><meta content="https://github.com/luis-almeida/jPages" property="og:url" /><meta content="jPages - Client side pagination with jQuery and CSS3" property="og:description" />
+      <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+    <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+    <link rel="assets" href="https://assets-cdn.github.com/">
+    
+    <meta name="pjax-timeout" content="1000">
+    
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+        <meta name="google-analytics" content="UA-3769691-2">
+
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="DECD110C:4971:1A3BE66:55DEB02F" name="octolytics-dimension-request_id" />
+    
+    <meta content="Rails, view, files#disambiguate" data-pjax-transient="true" name="analytics-event" />
+    <meta class="js-ga-set" name="dimension1" content="Logged Out">
+      <meta class="js-ga-set" name="dimension4" content="Current repo nav">
+    <meta name="is-dotcom" content="true">
+        <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+      <link rel="icon" sizes="any" mask href="https://assets-cdn.github.com/pinned-octocat.svg">
+      <meta name="theme-color" content="#4078c0">
+      <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
+
+    <!-- </textarea> --><!-- '"` --><meta content="authenticity_token" name="csrf-param" />
+<meta content="2qNnrMnI5x96PxOH4IL8dd4EL6r7Ucy6+Usrvj7mlBvVMnTEE5zK/Eql3jp1rgcW1JWGHZ8n0avf3l9aqRPWEw==" name="csrf-token" />
+    
+
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github/index-7495fc30c25b4614e5b716b1b1c299552a734828f0861876cab9ea0760d9b933.css" media="all" rel="stylesheet" />
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github2/index-6d6bda2da323a777198099484ffa98605f350d1a0c4c75cb4cc952d6699145cd.css" media="all" rel="stylesheet" />
+    
+    
+
+
+    <meta http-equiv="x-pjax-version" content="4bb6567c4c092f8771d9db475edbb5d0">
+
+      
+  <meta name="description" content="jPages - Client side pagination with jQuery and CSS3">
+  <meta name="go-import" content="github.com/luis-almeida/jPages git https://github.com/luis-almeida/jPages.git">
+
+  <meta content="1159544" name="octolytics-dimension-user_id" /><meta content="luis-almeida" name="octolytics-dimension-user_login" /><meta content="3273198" name="octolytics-dimension-repository_id" /><meta content="luis-almeida/jPages" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="3273198" name="octolytics-dimension-repository_network_root_id" /><meta content="luis-almeida/jPages" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/luis-almeida/jPages/commits/master.atom" rel="alternate" title="Recent Commits to jPages:master" type="application/atom+xml">
+
+  </head>
+
+
+  <body class="logged_out  env-production  vis-public">
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+    <div class="wrapper">
+      
+      
+      
+
+
+
+        
+        <div class="header header-logged-out" role="banner">
+  <div class="container clearfix">
+
+    <a class="header-logo-wordmark" href="https://github.com/" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+      <span class="mega-octicon octicon-logo-github"></span>
+    </a>
+
+    <div class="header-actions" role="navigation">
+        <a class="btn btn-primary" href="/join" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
+      <a class="btn" href="/login?return_to=%2Fluis-almeida%2FjPages" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+    </div>
+
+    <div class="site-search repo-scope js-site-search" role="search">
+      <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/luis-almeida/jPages/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="/luis-almeida/jPages/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <label class="js-chromeless-input-container form-control">
+    <div class="scope-badge">This repository</div>
+    <input type="text"
+      class="js-site-search-focus js-site-search-field is-clearable chromeless-input"
+      data-hotkey="s"
+      name="q"
+      placeholder="Search"
+      aria-label="Search this repository"
+      data-global-scope-placeholder="Search GitHub"
+      data-repo-scope-placeholder="Search"
+      tabindex="1"
+      autocapitalize="off">
+  </label>
+</form>
+    </div>
+
+      <ul class="header-nav left" role="navigation">
+          <li class="header-nav-item">
+            <a class="header-nav-link" href="/explore" data-ga-click="(Logged out) Header, go to explore, text:explore">Explore</a>
+          </li>
+          <li class="header-nav-item">
+            <a class="header-nav-link" href="/features" data-ga-click="(Logged out) Header, go to features, text:features">Features</a>
+          </li>
+          <li class="header-nav-item">
+            <a class="header-nav-link" href="https://enterprise.github.com/" data-ga-click="(Logged out) Header, go to enterprise, text:enterprise">Enterprise</a>
+          </li>
+          <li class="header-nav-item">
+            <a class="header-nav-link" href="/pricing" data-ga-click="(Logged out) Header, go to pricing, text:pricing">Pricing</a>
+          </li>
+      </ul>
+
+  </div>
+</div>
+
+
+
+      <div id="start-of-content" class="accessibility-aid"></div>
+          <div class="site" itemscope itemtype="http://schema.org/WebPage">
+    <div id="js-flash-container">
+      
+    </div>
+    <div class="pagehead repohead instapaper_ignore readability-menu">
+      <div class="container">
+
+        <div class="clearfix">
+          
+<ul class="pagehead-actions">
+
+  <li>
+      <a href="/login?return_to=%2Fluis-almeida%2FjPages"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+    aria-label="You must be signed in to watch a repository" rel="nofollow">
+    <span class="octicon octicon-eye"></span>
+    Watch
+  </a>
+  <a class="social-count" href="/luis-almeida/jPages/watchers">
+    51
+  </a>
+
+  </li>
+
+  <li>
+      <a href="/login?return_to=%2Fluis-almeida%2FjPages"
+    class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+    aria-label="You must be signed in to star a repository" rel="nofollow">
+    <span class="octicon octicon-star"></span>
+    Star
+  </a>
+
+    <a class="social-count js-social-count" href="/luis-almeida/jPages/stargazers">
+      544
+    </a>
+
+  </li>
+
+    <li>
+      <a href="/login?return_to=%2Fluis-almeida%2FjPages"
+        class="btn btn-sm btn-with-count tooltipped tooltipped-n"
+        aria-label="You must be signed in to fork a repository" rel="nofollow">
+        <span class="octicon octicon-repo-forked"></span>
+        Fork
+      </a>
+      <a href="/luis-almeida/jPages/network" class="social-count">
+        267
+      </a>
+    </li>
+</ul>
+
+          <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public ">
+  <span class="mega-octicon octicon-repo"></span>
+  <span class="author"><a href="/luis-almeida" class="url fn" itemprop="url" rel="author"><span itemprop="title">luis-almeida</span></a></span><!--
+--><span class="path-divider">/</span><!--
+--><strong><a href="/luis-almeida/jPages" data-pjax="#js-repo-pjax-container">jPages</a></strong>
+
+  <span class="page-context-loader">
+    <img alt="" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+  </span>
+
+</h1>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="repository-with-sidebar repo-container new-discussion-timeline with-full-navigation">
+        <div class="repository-sidebar clearfix">
+          
+<nav class="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
+     role="navigation"
+     data-pjax="#js-repo-pjax-container"
+     data-issue-count-url="/luis-almeida/jPages/issues/counts">
+  <ul class="sunken-menu-group">
+    <li class="tooltipped tooltipped-w" aria-label="Code">
+      <a href="/luis-almeida/jPages" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /luis-almeida/jPages">
+        <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
+        <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+
+      <li class="tooltipped tooltipped-w" aria-label="Issues">
+        <a href="/luis-almeida/jPages/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /luis-almeida/jPages/issues">
+          <span class="octicon octicon-issue-opened"></span> <span class="full-word">Issues</span>
+          <span class="js-issue-replace-counter"></span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+    <li class="tooltipped tooltipped-w" aria-label="Pull requests">
+      <a href="/luis-almeida/jPages/pulls" aria-label="Pull requests" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g p" data-selected-links="repo_pulls /luis-almeida/jPages/pulls">
+          <span class="octicon octicon-git-pull-request"></span> <span class="full-word">Pull requests</span>
+          <span class="js-pull-replace-counter"></span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+
+  </ul>
+  <div class="sunken-menu-separator"></div>
+  <ul class="sunken-menu-group">
+
+    <li class="tooltipped tooltipped-w" aria-label="Pulse">
+      <a href="/luis-almeida/jPages/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-selected-links="pulse /luis-almeida/jPages/pulse">
+        <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
+        <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+
+    <li class="tooltipped tooltipped-w" aria-label="Graphs">
+      <a href="/luis-almeida/jPages/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-selected-links="repo_graphs repo_contributors /luis-almeida/jPages/graphs">
+        <span class="octicon octicon-graph"></span> <span class="full-word">Graphs</span>
+        <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>    </li>
+  </ul>
+
+
+</nav>
+
+            <div class="only-with-full-nav">
+                
+<div class="js-clone-url clone-url open"
+  data-protocol-type="http">
+  <h3><span class="text-emphasized">HTTPS</span> clone URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
+           value="https://github.com/luis-almeida/jPages.git" readonly="readonly" aria-label="HTTPS clone URL">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+  
+<div class="js-clone-url clone-url "
+  data-protocol-type="subversion">
+  <h3><span class="text-emphasized">Subversion</span> checkout URL</h3>
+  <div class="input-group js-zeroclipboard-container">
+    <input type="text" class="input-mini input-monospace js-url-field js-zeroclipboard-target"
+           value="https://github.com/luis-almeida/jPages" readonly="readonly" aria-label="Subversion checkout URL">
+    <span class="input-group-button">
+      <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+
+
+  <div class="clone-options">You can clone with
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-form-nonce="40880e899c69bf5cc3b2dc68da0beb07c203d295" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="P/k5suyKFunKzPfE1PHt6+t36yNCpZL4PMc4BkMst60UE5aTLNrjY/31wZDfd9BHeTpXiVfjfLBLsh0HpoF5Gg==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form> or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form " data-form-nonce="40880e899c69bf5cc3b2dc68da0beb07c203d295" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="pKNZON4NRLYEtidzIsZaP4g7RHxXs6gjWKbBTo1ehN2UYASIsFZGWDbN24xYbDx5iMsqOQUiuy8rtS3wabBjWQ==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+    <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
+      <span class="octicon octicon-question"></span>
+    </a>
+  </div>
+
+              <a href="/luis-almeida/jPages/archive/master.zip"
+                 class="btn btn-sm sidebar-button"
+                 aria-label="Download the contents of luis-almeida/jPages as a zip file"
+                 title="Download the contents of luis-almeida/jPages as a zip file"
+                 rel="nofollow">
+                <span class="octicon octicon-cloud-download"></span>
+                Download ZIP
+              </a>
+            </div>
+        </div>
+        <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
+
+          
+<span id="js-show-full-navigation"></span>
+
+  <div class="repository-meta js-details-container ">
+    <div class="repository-description">
+      Client side pagination with jQuery and CSS3
+    </div>
+
+
+</div>
+
+
+<div class="overall-summary overall-summary-bottomless">
+
+  <div class="stats-switcher-viewport js-stats-switcher-viewport">
+    <div class="stats-switcher-wrapper">
+    <ul class="numbers-summary">
+      <li class="commits">
+        <a data-pjax href="/luis-almeida/jPages/commits/master">
+            <span class="octicon octicon-history"></span>
+            <span class="num text-emphasized">
+              38
+            </span>
+            commits
+        </a>
+      </li>
+      <li>
+        <a data-pjax href="/luis-almeida/jPages/branches">
+          <span class="octicon octicon-git-branch"></span>
+          <span class="num text-emphasized">
+            2
+          </span>
+          branches
+        </a>
+      </li>
+
+      <li>
+        <a data-pjax href="/luis-almeida/jPages/releases">
+          <span class="octicon octicon-tag"></span>
+          <span class="num text-emphasized">
+            0
+          </span>
+          releases
+        </a>
+      </li>
+
+      <li>
+        
+  <a href="/luis-almeida/jPages/graphs/contributors">
+    <span class="octicon octicon-organization"></span>
+    <span class="num text-emphasized">
+      1
+    </span>
+    contributor
+  </a>
+      </li>
+    </ul>
+
+      <div class="repository-lang-stats">
+        <ol class="repository-lang-stats-numbers">
+          <li>
+              <a href="/luis-almeida/jPages/search?l=javascript">
+                <span class="color-block language-color" style="background-color:#f1e05a;"></span>
+                <span class="lang">JavaScript</span>
+                <span class="percent">100.0%</span>
+              </a>
+          </li>
+        </ol>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+  <div class="repository-lang-stats-graph js-toggle-lang-stats" title="Click for language details">
+    <span class="language-color" aria-label="JavaScript 100.0%" style="width:100.0%; background-color:#f1e05a;" itemprop="keywords">JavaScript</span>
+  </div>
+
+<include-fragment src="/luis-almeida/jPages/show_partial?partial=tree%2Frecently_touched_branches_list"></include-fragment>
+
+  <div class="file-navigation in-mid-page">
+  <a href="/luis-almeida/jPages/find/master"
+        class="js-show-file-finder btn btn-sm empty-icon tooltipped tooltipped-s right"
+        data-pjax
+        data-hotkey="t"
+        aria-label="Quickly jump between files"
+        data-ga-click="Repository, find file, location:repo overview">
+    <span class="octicon octicon-list-unordered"></span>
+  </a>
+    <a href="/luis-almeida/jPages/compare" aria-label="Compare, review, create a pull request" class="btn btn-sm btn-primary tooltipped tooltipped-se left compare-button" aria-label="Compare &amp; review" data-pjax data-ga-click="Repository, go to compare view, location:repo overview; icon:git-compare">
+      <span class="octicon octicon-git-compare"></span>
+    </a>
+
+  
+<div class="select-menu js-menu-container js-select-menu left">
+  <span class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    data-ref="master"
+    title="master"
+    role="button" aria-label="Switch branches or tags" tabindex="0" aria-haspopup="true">
+    <i>Branch:</i>
+    <span class="js-select-button css-truncate-target">master</span>
+  </span>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax aria-hidden="true">
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <span class="select-menu-title">Switch branches/tags</span>
+        <span class="octicon octicon-x js-menu-close" role="button" aria-label="Close"></span>
+      </div>
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag…" class="js-select-menu-tab" role="tab">Tags</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches" role="menu">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <a class="select-menu-item js-navigation-item js-navigation-open "
+               href="/luis-almeida/jPages/tree/gh-pages"
+               data-name="gh-pages"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <span class="select-menu-item-text css-truncate-target" title="gh-pages">
+                gh-pages
+              </span>
+            </a>
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+               href="/luis-almeida/jPages/tree/master"
+               data-name="master"
+               data-skip-pjax="true"
+               rel="nofollow">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <span class="select-menu-item-text css-truncate-target" title="master">
+                master
+              </span>
+            </a>
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+  <div class="breadcrumb"><span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/luis-almeida/jPages" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">jPages</span></a></span></span><span class="separator">/</span>
+    <a class="btn-link disabled tooltipped tooltipped-e" href="#" aria-label="You must be signed in to make or propose changes">
+      <span class="octicon octicon-plus"></span>
+    </a>
+</div>
+</div>
+
+
+
+
+
+  <div class="commit commit-tease js-details-container" >
+    <p class="commit-title ">
+        <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+        
+    </p>
+    <div class="commit-meta">
+      <button aria-label="Copy SHA" class="js-zeroclipboard zeroclipboard-link tooltipped tooltipped-s" data-clipboard-text="b6a51c90640c95d8ea4238f9196741eb9fb61531" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+      <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="sha-block" data-pjax>latest commit <span class="sha">b6a51c9064</span></a>
+
+      <div class="authorship">
+        <img alt="@luis-almeida" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/1159544?v=3&amp;s=40" width="20" />
+        <span class="author-name"><a href="/luis-almeida" rel="author">luis-almeida</a></span>
+        authored <time class="updated" datetime="2012-10-21T15:52:43Z" is="relative-time">Oct 21, 2012</time>
+
+      </div>
+    </div>
+  </div>
+
+
+<div class="file-wrap">
+  <a href="/luis-almeida/jPages/tree/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+
+  <table class="files" data-pjax>
+
+
+    <tbody>
+      <tr class="warning include-fragment-error">
+        <td class="icon"><span class="octicon octicon-alert"></span></td>
+        <td class="content" colspan="3">Failed to load latest commit information.</td>
+      </tr>
+
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-directory"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/tree/master/css" class="js-directory-link" id="c7a628cba22e28eb17b5f5c6ae2a266a-bb792186d15500d8184b715ad7888b1beb9933e4" title="css">css</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-directory"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/tree/master/img" class="js-directory-link" id="b798abe6e1b1318ee36b0dcb3fb9e4d3-9a7395e1b764e4eb69cdaf1bd4f9aa4654a69df6" title="img">img</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-directory"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/tree/master/js" class="js-directory-link" id="32981a13284db7a021131df49e6cd203-6b1ac25c897390e95d0b75c1394a9eb62e2aee35" title="js">js</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/5a5608eb6541f3ddd485dc21e460cbece7ba958e" class="message" data-pjax="true" title="Removing jQuery 1.7.1">Removing jQuery 1.7.1</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T14:40:50Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/LICENSE.md" class="js-directory-link" id="37854d19817c792316d481f5beb93cc7-63cc847d06bb6594ba75439e4b4e425158a3e798" title="LICENSE.md">LICENSE.md</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/76b984b99a8cbb497ea9b8b208f5fa4e3fc54062" class="message" data-pjax="true" title="IE bug fixes">IE bug fixes</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-01-26T16:01:55Z" is="time-ago">Jan 26, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/README.md" class="js-directory-link" id="04c6e90faac2675aa89e2176d2eec7d8-866f5db6c06cf2db2b945219db634c232e1d16af" title="README.md">README.md</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/4666d2ad365d0330d381bd405644c01769e1cadc" class="message" data-pjax="true" title="Updating the release log">Updating the release log</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T14:35:56Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/auto.html" class="js-directory-link" id="3225c69edb86981557ad4f0cb2fab797-a90e8326fcb3588a6af583d401ba537da18f02a5" title="auto.html">auto.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/blanklinks.html" class="js-directory-link" id="2bd4fe9deeaf77e11875029b0c130aab-1b84151ce4ec478821fab48eb9cb19d963f9d870" title="blanklinks.html">blanklinks.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/callback.html" class="js-directory-link" id="221be9b755bfc55dc31b1923df4e7003-570cd5d2b64a28312496e0550ddba03e86e6bd11" title="callback.html">callback.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/cssanimation.html" class="js-directory-link" id="093442c85f29d35f63380de78ea4b493-e8cc25516cdcde37794526f587b45879b57cd950" title="cssanimation.html">cssanimation.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/custombuttons.html" class="js-directory-link" id="63b616f0bc28e392c0925cd36b64f828-9c8eaeb237b34be68162a22155b7ea891e3a8002" title="custombuttons.html">custombuttons.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/customizebuttons.html" class="js-directory-link" id="df8801466e823895379c2fdbaa6afc75-623578591de173229e6f903b972b9010b6de53a7" title="customizebuttons.html">customizebuttons.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/defaults.html" class="js-directory-link" id="1b66e98c8a158da7390ca8a035005653-35ebb9b85c403e2c1d11ba9e5ded21682d054560" title="defaults.html">defaults.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/destroy.html" class="js-directory-link" id="8afe69961528c4abca3f87285cd43bd1-ce8cbb04f27ef5790926ed576930db19edbd7b5a" title="destroy.html">destroy.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/direction.html" class="js-directory-link" id="51241c5ae0c5c9f01c079230b521da48-c9a1fe5ee4912ebf746c180f6337e2e8596389e4" title="direction.html">direction.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/documentation.html" class="js-directory-link" id="f308a991236ac7f9b2a57ca82780c6ef-5774c5d8522d6da4c4089641300f66b9ec0cff3c" title="documentation.html">documentation.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/download.html" class="js-directory-link" id="75f3d75b2f1caade24ced34b49384a1f-2b69b3b4e24a7ffcd01d96a9923e3aa63d869f0c" title="download.html">download.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/gallery.html" class="js-directory-link" id="3dfcaf688c54165082366bea949adfd2-0a674c63d43a34f3c2ebf75bd791d621fadcc9a4" title="gallery.html">gallery.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/index.html" class="js-directory-link" id="eacf331f0ffc35d4b482f1d15a887d3b-500d67dee8173f9e0128c2f57602c61aa60201d5" title="index.html">index.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/itemsperpage.html" class="js-directory-link" id="1fde47c2904468d5b00527de42992359-10670a47dcff34031e4d64699fa1385ebc524c24" title="itemsperpage.html">itemsperpage.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/jqueryanimation.html" class="js-directory-link" id="fddfbcea8dfedbe665c8cbafdd1379b8-75eee2e10353533ec1d48d66120a8e1c5d62315b" title="jqueryanimation.html">jqueryanimation.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/jumptopage.html" class="js-directory-link" id="7ab32aee9784972948dbe99d67521aa1-7492865d7f8cbe68d4039b244a8fdeb7c5a2ac91" title="jumptopage.html">jumptopage.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/keybrowse.html" class="js-directory-link" id="509f157c28db4a88104e9b92870b22b5-936a0fe5249a70ffcbc1567af40eeae95c998ecd" title="keybrowse.html">keybrowse.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/lazyload.html" class="js-directory-link" id="250f9620a9d7d14b400028688caecf01-e01ca4b724548ed9f9cb47931f264323fc7c6b5a" title="lazyload.html">lazyload.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/mosaic.html" class="js-directory-link" id="2729895cd64bd6b5733c739055a1665d-f34f0dd30b03372c254629ac43c9f1389c5dfaeb" title="mosaic.html">mosaic.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/pagination.html" class="js-directory-link" id="88e84c76f99772f7add0a45c4df18e8d-1b26fefa9bb3ce4e3d940392887723936627d3a5" title="pagination.html">pagination.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/scrollbrowse.html" class="js-directory-link" id="60d13b1e5315c377a6716f2d5f56909d-2e8a8856ca40233c248c87df771ca56a375630da" title="scrollbrowse.html">scrollbrowse.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/table.html" class="js-directory-link" id="659eda85571329c8fe783588c66695fa-ec039837f29308bff89aa38a7d44e9c58095a6de" title="table.html">table.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+        <tr>
+          <td class="icon">
+            <span class="octicon octicon-file-text"></span>
+            <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </td>
+          <td class="content">
+            <span class="css-truncate css-truncate-target"><a href="/luis-almeida/jPages/blob/master/titlelinks.html" class="js-directory-link" id="7dea6daac345b5024b9f17b631a71f20-06a7f9df50ba7bb5f501a0392eb374575238679d" title="titlelinks.html">titlelinks.html</a></span>
+          </td>
+          <td class="message">
+            <span class="css-truncate css-truncate-target">
+              <a href="/luis-almeida/jPages/commit/b6a51c90640c95d8ea4238f9196741eb9fb61531" class="message" data-pjax="true" title="Updating contact info in the header">Updating contact info in the header</a>
+            </span>
+          </td>
+          <td class="age">
+            <span class="css-truncate css-truncate-target"><time datetime="2012-10-21T15:52:43Z" is="time-ago">Oct 21, 2012</time></span>
+          </td>
+        </tr>
+    </tbody>
+  </table>
+
+</div>
+
+
+  <div id="readme" class="boxed-group flush clearfix announce instapaper_body md">
+    <h3>
+      <span class="octicon octicon-book"></span>
+      README.md
+    </h3>
+
+    <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1><a id="user-content-jpagesjs" class="anchor" href="#jpagesjs" aria-hidden="true"><span class="octicon octicon-link"></span></a>jPages.js</h1>
+
+<p>jPages is a client-side pagination plugin but it gives you a lot more features comparing to most of the other plugins for this purpose, such as auto page turn, key and scroll browse, showing items with delay, completely customizable navigation panel and also integration with Animate.css and Lazy Load.
+Apart from all its features, the main diference for the other pagination plugins is that with jPages you can create as many navigation panels as you want and you can choose exactly where to place them.
+The plugin is very unobtrusive and it won't apply any extra styles to the items you are paginating. It will only create and insert the links inside the element(s) you are applying the plugin to, in order to turn them into navigation panel(s).</p>
+
+<p>Visit jPages <a href="http://luis-almeida.github.com/jPages/">project page</a></p>
+
+<h4><a id="user-content-browser-compatibility-tested" class="anchor" href="#browser-compatibility-tested" aria-hidden="true"><span class="octicon octicon-link"></span></a>Browser compatibility (tested):</h4>
+
+<p>IE7+
+Chrome, Firefox, Opera and Safari (current versions)</p>
+
+<h4><a id="user-content-release-log" class="anchor" href="#release-log" aria-hidden="true"><span class="octicon octicon-link"></span></a>Release log:</h4>
+
+<h5><a id="user-content-v07-21102012" class="anchor" href="#v07-21102012" aria-hidden="true"><span class="octicon octicon-link"></span></a>v0.7 (21.10.2012)</h5>
+
+<ul>
+<li>Bug fix: now compatible with jQuery 1.8+</li>
+</ul>
+
+<h5><a id="user-content-v06-13052012" class="anchor" href="#v06-13052012" aria-hidden="true"><span class="octicon octicon-link"></span></a>v0.6 (13.05.2012)</h5>
+
+<ul>
+<li>Bug fix: Scroll browse feature - now compatible with jQuery 1.7+</li>
+</ul>
+
+<h5><a id="user-content-v05-28042012" class="anchor" href="#v05-28042012" aria-hidden="true"><span class="octicon octicon-link"></span></a>v0.5 (28.04.2012)</h5>
+
+<ul>
+<li>Bug fix: Scroll browse feature - scrolling inside the item container was also scrolling the window in Firefox</li>
+</ul>
+
+<h5><a id="user-content-v04-17042012" class="anchor" href="#v04-17042012" aria-hidden="true"><span class="octicon octicon-link"></span></a>v0.4 (17.04.2012)</h5>
+
+<ul>
+<li>Accessibility improvements: it is now possible to navigate through the pagination in a text-only browser</li>
+</ul>
+
+<h5><a id="user-content-v03-07042012" class="anchor" href="#v03-07042012" aria-hidden="true"><span class="octicon octicon-link"></span></a>v0.3 (07.04.2012)</h5>
+
+<ul>
+<li>Bug fix: Destroy method wasn't cleaning all the classes</li>
+</ul>
+
+<h5><a id="user-content-v02-20032012" class="anchor" href="#v02-20032012" aria-hidden="true"><span class="octicon octicon-link"></span></a>v0.2 (20.03.2012)</h5>
+
+<ul>
+<li>Pagination is now only applied to visible items</li>
+</ul>
+
+<h5><a id="user-content-v01-26012012" class="anchor" href="#v01-26012012" aria-hidden="true"><span class="octicon octicon-link"></span></a>v0.1 (26.01.2012)</h5>
+
+<ul>
+<li>First release</li>
+</ul>
+</article>
+  </div>
+
+
+        </div>
+      </div>
+      <div class="modal-backdrop"></div>
+    </div>
+  </div>
+
+
+    </div><!-- /.wrapper -->
+
+      <div class="container">
+  <div class="site-footer" role="contentinfo">
+    <ul class="site-footer-links right">
+        <li><a href="https://status.github.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+      <li><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+      <li><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop">Shop</a></li>
+        <li><a href="https://github.com/blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a href="https://github.com/about" data-ga-click="Footer, go to about, text:about">About</a></li>
+        <li><a href="https://github.com/pricing" data-ga-click="Footer, go to pricing, text:pricing">Pricing</a></li>
+
+    </ul>
+
+    <a href="https://github.com" aria-label="Homepage">
+      <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
+</a>
+    <ul class="site-footer-links">
+      <li>&copy; 2015 <span title="0.04992s from github-fe123-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+        <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+        <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
+        <li><a href="https://github.com/contact" data-ga-click="Footer, go to contact, text:contact">Contact</a></li>
+        <li><a href="https://help.github.com" data-ga-click="Footer, go to help, text:help">Help</a></li>
+    </ul>
+  </div>
+</div>
+
+
+    <div class="fullscreen-overlay js-fullscreen-overlay" id="fullscreen_overlay">
+  <div class="fullscreen-container js-suggester-container">
+    <div class="textarea-wrap">
+      <textarea name="fullscreen-contents" id="fullscreen-contents" class="fullscreen-contents js-fullscreen-contents" placeholder="" aria-label=""></textarea>
+      <div class="suggester-container">
+        <div class="suggester fullscreen-suggester js-suggester js-navigation-container"></div>
+      </div>
+    </div>
+  </div>
+  <div class="fullscreen-sidebar">
+    <a href="#" class="exit-fullscreen js-exit-fullscreen tooltipped tooltipped-w" aria-label="Exit Zen Mode">
+      <span class="mega-octicon octicon-screen-normal"></span>
+    </a>
+    <a href="#" class="theme-switcher js-theme-switcher tooltipped tooltipped-w"
+      aria-label="Switch themes">
+      <span class="octicon octicon-color-mode"></span>
+    </a>
+  </div>
+</div>
+
+
+
+    
+    
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="octicon octicon-alert"></span>
+      <a href="#" class="octicon octicon-x flash-close js-ajax-error-dismiss" aria-label="Dismiss error"></a>
+      Something went wrong with that request. Please try again.
+    </div>
+
+
+      <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-c8a8198ff49efaf784014a076f734ed15b416115b9e389a7f3aa1f3ec7f457f2.js"></script>
+      <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github/index-deaabc70947e3c9714ca14975e1c081360064b7d2e552a8d9682ef5db97c351c.js"></script>
+      
+      
+    <div class="js-stale-session-flash stale-session-flash flash flash-warn flash-banner hidden">
+      <span class="octicon octicon-alert"></span>
+      <span class="signed-in-tab-flash">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+      <span class="signed-out-tab-flash">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    </div>
+  </body>
+</html>
+

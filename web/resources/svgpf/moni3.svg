@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" onload="try{init();} catch(e){}" xmlns:cge="http://iec.ch/TC57/2005/SVG-schema#"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="612px" height="792px"
+	 viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<symbol  id="Breaker_JX_0_x40_1" viewBox="-4.257 -2.325 8.514 4.65">
+	<path fill="none" stroke="#00FF00" stroke-width="4.65" d="M-1.89,0h3.78"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.54" x1="-4.257" y1="-0.039" x2="-1.89" y2="-0.039"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.54" x1="1.89" y1="-0.039" x2="4.257" y2="-0.039"/>
+</symbol>
+<symbol  id="Disconnector_JX_4_x40_0" viewBox="-3.443 -1.472 6.886 2.944">
+	<line fill="none" stroke="#00FF00" stroke-width="0.77" x1="-1.791" y1="-0.012" x2="0.962" y2="-1.114"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.77" x1="-3.443" y1="0.536" x2="-2.341" y2="0.536"/>
+	<path fill="#FFFFFF" stroke="#00FF00" stroke-width="0.77" d="M-1.791-0.016c0.305,0,0.551,0.247,0.551,0.552
+		s-0.246,0.551-0.551,0.551c-0.304,0-0.551-0.246-0.551-0.551S-2.095-0.016-1.791-0.016z"/>
+	<path fill="#FFFFFF" stroke="#00FF00" stroke-width="0.77" d="M2.065-0.016c0.304,0,0.551,0.247,0.551,0.552
+		S2.37,1.087,2.065,1.087S1.514,0.841,1.514,0.536S1.761-0.016,2.065-0.016z"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.77" x1="2.617" y1="0.536" x2="3.443" y2="0.536"/>
+</symbol>
+<symbol  id="Disconnector_JX_4_x40_1" viewBox="-4.208 -1.059 8.416 2.117">
+	<line fill="none" stroke="#00FF00" stroke-width="0.77" x1="-2.188" y1="-0.674" x2="2.524" y2="-0.674"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.77" x1="-4.208" y1="0" x2="-2.86" y2="0"/>
+	<path fill="#FFFFFF" stroke="#00FF00" stroke-width="0.77" d="M-2.188-0.674c0.372,0,0.674,0.301,0.674,0.674
+		c0,0.372-0.302,0.673-0.674,0.673S-2.86,0.372-2.86,0C-2.86-0.373-2.56-0.674-2.188-0.674z"/>
+	<path fill="#FFFFFF" stroke="#00FF00" stroke-width="0.77" d="M2.524-0.674c0.372,0,0.673,0.301,0.673,0.674
+		c0,0.372-0.301,0.673-0.673,0.673S1.852,0.372,1.852,0C1.852-0.373,2.152-0.674,2.524-0.674z"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.77" x1="3.197" y1="0" x2="4.208" y2="0"/>
+</symbol>
+<symbol  id="FaultIndicator" viewBox="-2.443 -2.332 4.885 4.885">
+	<path fill="#FF0000" stroke="#FF0000" stroke-width="0.22" d="M-2.333,0.11c0,1.288,1.045,2.333,2.334,2.332
+		c0.409,0,0.811-0.108,1.166-0.313L0,0.11H-2.333z"/>
+	<path fill="#FFFF00" stroke="#FFFF00" stroke-width="0.22" d="M1.167,2.13c1.115-0.646,1.496-2.073,0.851-3.188
+		C1.814-1.412,1.521-1.705,1.167-1.909L0,0.11L1.167,2.13z"/>
+	<path fill="#008000" stroke="#008000" stroke-width="0.22" d="M1.167-1.909C0.051-2.554-1.375-2.172-2.02-1.056
+		C-2.225-0.701-2.333-0.299-2.333,0.11H0L1.167-1.909z"/>
+</symbol>
+<symbol  id="GroundDisconnector_JX_0_x40_0" viewBox="-2.168 -1.541 4.335 3.083">
+	<line fill="none" stroke="#00FF00" stroke-width="0.96" x1="-1.688" y1="-0.445" x2="-1.688" y2="1.542"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.96" x1="-1.688" y1="-0.445" x2="-0.603" y2="-0.445"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.96" x1="-0.603" y1="-0.807" x2="-0.603" y2="-0.083"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.96" x1="-0.417" y1="-1.167" x2="0.481" y2="-0.445"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.96" x1="0.396" y1="-0.445" x2="1.565" y2="-0.445"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.48" x1="1.565" y1="-1.167" x2="1.565" y2="0.278"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.48" x1="1.75" y1="-0.807" x2="1.75" y2="0.097"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.48" x1="1.927" y1="-0.625" x2="1.927" y2="-0.083"/>
+</symbol>
+<symbol  id="LoadBreakSwitch_JX_7_x40_0" viewBox="-4.257 -1.218 8.514 2.436">
+	<path fill="none" stroke="#00FF00" stroke-width="0.54" d="M-1.89-0.948h3.78v1.896h-3.78V-0.948"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.54" x1="-4.257" y1="-0.003" x2="-1.89" y2="-0.003"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.54" x1="1.89" y1="-0.003" x2="4.257" y2="-0.003"/>
+</symbol>
+<symbol  id="LoadBreakSwitch_JX_7_x40_1" viewBox="-4.257 -2.325 8.514 4.65">
+	<path fill="none" stroke="#00FF00" stroke-width="4.65" d="M-1.89,0h3.78"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.54" x1="-4.257" y1="-0.039" x2="-1.89" y2="-0.039"/>
+	<line fill="none" stroke="#00FF00" stroke-width="0.54" x1="1.89" y1="-0.039" x2="4.257" y2="-0.039"/>
+</symbol>
+<symbol  id="PowerTransformer_JX_专变" viewBox="-4.209 -7.105 8.418 14.21">
+	<path fill="none" stroke="#00FF00" stroke-width="0.69" d="M0-6.76c2.134,0,3.864,1.729,3.864,3.858c0,2.14-1.73,3.865-3.864,3.865
+		s-3.864-1.728-3.864-3.863C-3.864-5.029-2.134-6.76,0-6.76z"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.69" d="M0-0.963c2.134,0,3.864,1.729,3.864,3.863
+		C3.864,5.034,2.134,6.76,0,6.76s-3.864-1.727-3.864-3.858C-3.864,0.767-2.134-0.963,0-0.963z"/>
+</symbol>
+<symbol  id="PowerTransformer_JX_柱上公变_2" viewBox="-4.208 -7.105 8.417 14.21">
+	<path fill="none" stroke="#00FF00" stroke-width="0.69" d="M0-6.76c2.135,0,3.864,1.729,3.864,3.857c0,2.14-1.73,3.864-3.864,3.864
+		S-3.863-0.766-3.863-2.9C-3.863-5.03-2.134-6.76,0-6.76z"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.69" d="M0-0.964c2.135,0,3.864,1.729,3.864,3.864
+		C3.862,5.034,2.133,6.76,0,6.76s-3.863-1.729-3.863-3.857C-3.863,0.767-2.134-0.964,0-0.964z"/>
+	<path fill="#FF0000" stroke="#00FF00" stroke-width="1.38" d="M0-0.48c1.199,0,2.17,0.223,2.17,0.482S1.199,0.485,0,0.485
+		c-1.198,0-2.17-0.224-2.17-0.483S-1.205-0.48,0-0.48z"/>
+</symbol>
+<g id="Head_Layer">
+	<path stroke="#000000" d="M7.444,333.917h436.892V525.67H7.444V333.917z"/>
+</g>
+<script>
+	<![CDATA[
+function init(evt)
+{
+	svgDoc  = evt.target.ownerDocument;
+	svgRoot = svgDoc.rootElement;
+}
+function mOver(evt)
+{
+    var rect=evt.target;
+	rect.style.cursor = "hand";
+}
+function mOut(evt)
+{
+    var rect=evt.target;
+	rect.style.cursor = "default";
+}
+function mClick(evt)
+{
+    var rect=evt.target;
+	alert("id="+rect.id);
+}
+
+		
+		
+		
+		
+		
+		
+		]]>
+</script>
+<g id="FaultIndicator_Layer" onclick="mClick(evt)" onmouseover="mOver(evt)" onmouseout="mOut(evt)">
+</g>
+<g id="ACLine_Layer">
+	<g id="_x31_9302708">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M210.046,371.541v4.322h16.104v-2.365"/>
+	</g>
+	<g id="_x31_7234212">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M151.673,406.573"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M151.904,421.093"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M113.119,521.15"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M114.419,407.335"/>
+	</g>
+	<g id="_x31_7234379">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M108.146,439.236"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M159.173,416.622"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M159.173,406.575"/>
+	</g>
+	<g id="_x31_1753483">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M247.052,418.866"/>
+	</g>
+	<g id="_x31_1754171">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M106.01,455.629"/>
+	</g>
+	<g id="_x31_1752944">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M107.182,406.673"/>
+	</g>
+	<g id="_x31_1753221">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M120.44,460.4"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M120.44,456.333"/>
+	</g>
+	<g id="_x31_9950940">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M121.714,371.21v4.963h-5.168v-2.716"/>
+	</g>
+	<g id="_x31_9950944">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M111.369,373.436v2.85h-7.868v-5.03"/>
+	</g>
+	<g id="_x31_9950952">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M135.245,371.089"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M135.245,381.726"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M165.743,418.549"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M165.743,406.827"/>
+		
+			<use xlink:href="#FaultIndicator"  width="4.885" height="4.885" x="-2.443" y="-2.332" transform="matrix(0.8763 0 0 0.8763 165.7412 410.166)" overflow="visible"/>
+	</g>
+	<g id="_x32_0004297">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M202.881,371.668v6.304h30.984v-6.507"/>
+	</g>
+	<g id="_x32_0004299">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M241.087,371.429v6.41h8.856v-4.332"/>
+	</g>
+	<g id="_x32_0004300">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M262.271,373.313"/>
+	</g>
+	<g id="_x32_3918564">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M275.822,404.645v5.836h-4.873v-2.711"/>
+	</g>
+	<g id="_x32_3919150">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M263.031,408.844v1.643h-5.514v-4.268"/>
+	</g>
+</g>
+<g id="ConnectLine_Layer">
+	<g id="_x31_1225494">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M439.979,601.91"/>
+	</g>
+	<g id="_x31_1225496">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M439.979,587.379"/>
+	</g>
+	<g id="_x31_1225499">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M439.979,609.757"/>
+	</g>
+	<g id="_x31_6482459">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M100.027,402.214v-0.086"/>
+	</g>
+	<g id="_x31_6482460">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M107.202,402.193v-0.092"/>
+	</g>
+	<g id="_x31_6482461">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M114.419,401.995v-0.088"/>
+	</g>
+	<g id="_x31_6482462">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M121.757,402.184v-0.086"/>
+	</g>
+	<g id="_x31_6482549">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M91.781,447.598v-0.093"/>
+	</g>
+	<g id="_x31_6482550">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M98.931,447.73v-0.093"/>
+	</g>
+	<g id="_x31_6482551">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M106.082,447.598v-0.093"/>
+	</g>
+	<g id="_x31_9301694">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M151.795,401.145v-1.406"/>
+	</g>
+	<g id="_x31_9301700">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M158.929,401.018v-1.406"/>
+	</g>
+	<g id="_x31_9301702">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M165.809,401.175v-1.51"/>
+	</g>
+	<g id="_x31_9301703">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M172.847,401.047v-1.382"/>
+	</g>
+	<g id="_x31_9302578">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M195.745,365.761v-0.998"/>
+	</g>
+	<g id="_x31_9302580">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M217.042,365.466l-0.021-0.719"/>
+	</g>
+	<g id="_x31_9545538">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M210.005,365.481v-0.726"/>
+	</g>
+	<g id="_x31_9545542">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M202.895,365.808v-0.988"/>
+	</g>
+	<g id="_x32_0004235">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M233.91,365.919v-0.816"/>
+	</g>
+	<g id="_x32_0004237">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M241.148,365.935v-0.748"/>
+	</g>
+	<g id="_x32_0004238">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M255.326,366.924v-1.815"/>
+	</g>
+	<g id="_x31_9950933">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M116.608,366.731v-1.881"/>
+	</g>
+	<g id="_x31_9950935">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M103.577,365.858v-1.039"/>
+	</g>
+	<g id="_x31_9950936">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M96.794,365.758v-0.928"/>
+	</g>
+	<g id="_x31_9950929">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M135.265,365.824v-0.974"/>
+	</g>
+	<g id="_x31_9950931">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M128.615,365.899v-1.08"/>
+	</g>
+	<g id="_x31_9950932">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M121.77,365.848v-1.029"/>
+	</g>
+	<g id="_x32_3919186">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M281.739,399.895v0.199"/>
+	</g>
+	<g id="_x32_3919179">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M263.185,399.288v0.278"/>
+	</g>
+	<g id="_x32_3919181">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M275.736,399.682v0.219"/>
+	</g>
+	<g id="_x33_4258641">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M107.243,404.421l-0.051-0.098l0.026,0.051l-0.031,1.121l-0.005,1.178
+			l0.01-2.35"/>
+	</g>
+	<g id="_x33_4258642">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M98.851,453.565l-0.01-0.11l0.005,0.058l-0.005,1.018v-1.069v2.142"/>
+	</g>
+	<g id="_x33_4258643">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M105.999,453.413l0.005-0.187v0.095l0.005,1.107v1.197l-0.005-2.399"/>
+	</g>
+	<g id="_x33_4258644">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M113.242,451.879"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M113.242,449.738"/>
+	</g>
+	<g id="_x33_4258645">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M247.012,399.027"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M247.027,399.032"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M247.017,401.427"/>
+	</g>
+	<g id="_x33_4258649">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M99.946,406.564l0.071-2.282l-0.036,1.146l0.062-1.063l0.025,0.082
+			l-0.051-0.164"/>
+	</g>
+	<g id="_x33_4258650">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M114.582,404.243l-0.021-0.104l0.011,0.051l-0.005,1.144l0.005,1.196
+			l-0.011-2.391"/>
+	</g>
+	<g id="_x33_4258652">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M91.72,455.543l0.015-2.335l-0.005,1.168l-0.015-1.064l-0.02,0.104
+			l0.041-0.204"/>
+	</g>
+	<g id="_x33_4258653">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M270.78,411.12"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M270.78,411.102"/>
+	</g>
+	<g id="_x33_4258659">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M158.894,404.915l0.071-0.47l-0.036,0.229l0.143,0.831l0.103,1.063
+			l-0.209-2.129"/>
+	</g>
+	<g id="_x33_4258660">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M172.841,404.788l0.005-0.408v0.203l0.005,0.99v1.188l-0.005-2.387"/>
+	</g>
+	<g id="_x33_4258661">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M165.768,404.915l0.011-0.408l-0.005,0.205l-0.01,0.957l-0.021,1.158
+			l0.036-2.32"/>
+	</g>
+	<g id="_x33_4258663">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M151.672,406.575l0.091-2.002l-0.045,0.997l0.041-0.795l-0.005,0.205
+			l0.01-0.408"/>
+	</g>
+	<g id="_x33_4258665">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M195.735,371.287l-0.086-2.141l0.045,1.069l-0.037-0.877l0.006,0.198
+			l-0.015-0.393"/>
+	</g>
+	<g id="_x33_4258666">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M216.992,369.432l0.045-0.178l-0.02,0.092l0.02,0.979v-1.071v2.142"/>
+	</g>
+	<g id="_x33_4258668">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M255.367,373.548l-0.041-6.624"/>
+	</g>
+	<g id="_x33_4258669">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M249.944,373.508l0.103-8.948"/>
+	</g>
+	<g id="_x33_4258671">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M262.236,371.052"/>
+	</g>
+	<g id="_x33_4258673">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M111.369,373.436l0.179-8.878"/>
+	</g>
+	<g id="_x33_4258677">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M128.65,369.57l-0.036-0.709l0.015,0.357l-0.015,0.713v-1.07v2.142"/>
+	</g>
+	<g id="_x33_4258679">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M135.245,371.088l-0.02-2.227l0.011,1.114l-0.015-0.784l-0.006,0.324
+			l0.011-0.657"/>
+	</g>
+	<g id="_x33_4258680">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M91.32,371.561"/>
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M91.29,371.582"/>
+	</g>
+	<g id="_x33_4258681">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M116.546,373.457l0.062-6.728"/>
+	</g>
+	<g id="_x33_4258682">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M270.95,407.77l0.205-9.963"/>
+	</g>
+	<g id="_x33_4258685">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M263.031,408.844l0.097-6.457l0.036-0.007l-0.066,0.007"/>
+	</g>
+	<g id="_x33_4258687">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M281.719,404.669l0.005-2.397v1.195l0.051-1.183l0.051,0.015
+			l-0.102-0.027"/>
+	</g>
+	<g id="_x33_4258689">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M275.822,404.645l0.071-2.363l0.061,0.023l-0.127-0.045"/>
+	</g>
+	<g id="_x33_4258691">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M257.518,406.221l-0.02-2.392l-0.021-0.015l0.041,0.021"/>
+	</g>
+</g>
+<g id="Bus_Layer">
+	<g id="_x31_1740124">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M98.509,400.104l26.175-0.179"/>
+	</g>
+	<g id="_x31_1743185">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M90.236,445.661l19.243-0.025"/>
+	</g>
+	<g id="_x31_9301156">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M149.608,399.729h25.333"/>
+	</g>
+	<g id="_x31_9302558">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M194.482,364.769l8.842-0.006l14.452-0.01"/>
+	</g>
+	<g id="_x31_9950821">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M96.191,364.829h0.974l6.788,0.005"/>
+	</g>
+	<g id="_x31_9950875">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M121.052,364.84l14.784,0.016"/>
+	</g>
+	<g id="_x31_9950884">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M110.686,364.835h0.056l6.508,0.004"/>
+	</g>
+	<g id="_x32_3917868">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M271.308,398.064h-8.658"/>
+	</g>
+	<g id="_x32_3917865">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M275.411,398.036h6.732"/>
+	</g>
+	<g id="_x32_0004161">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M249.622,364.988l6.045,0.004"/>
+	</g>
+	<g id="_x32_0004230">
+		<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M233.402,365.058l8.123,0.006"/>
+	</g>
+</g>
+<g id="Disconnector_Layer">
+	<g id="_x31_1743191">
+		
+			<use xlink:href="#Disconnector_JX_4_x40_1"  width="8.416" height="2.117" x="-4.208" y="-1.059" transform="matrix(3.244341e-017 -0.5298 0.5298 3.244341e-017 91.7783 447.5957)" overflow="visible"/>
+	</g>
+	<g id="_x31_1743192">
+		
+			<use xlink:href="#Disconnector_JX_4_x40_0"  width="6.886" height="2.944" x="-3.443" y="-1.472" transform="matrix(3.966021e-017 -0.6476 0.6476 3.966021e-017 98.9302 447.7275)" overflow="visible"/>
+	</g>
+	<g id="_x31_1743193">
+		
+			<use xlink:href="#Disconnector_JX_4_x40_1"  width="8.416" height="2.117" x="-4.208" y="-1.059" transform="matrix(3.244341e-017 -0.5298 0.5298 3.244341e-017 106.0781 447.5957)" overflow="visible"/>
+	</g>
+	<g id="_x31_1744332">
+		
+			<use xlink:href="#Disconnector_JX_4_x40_1"  width="8.416" height="2.117" x="-4.208" y="-1.059" transform="matrix(3.244341e-017 -0.5298 0.5298 3.244341e-017 98.8823 451.3359)" overflow="visible"/>
+	</g>
+</g>
+<g id="GroundDisconnector_Layer">
+	<g id="_x32_0004180">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 241.5918 370.5337)" overflow="visible"/>
+	</g>
+	<g id="_x32_0004186">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 234.457 370.5542)" overflow="visible"/>
+	</g>
+	<g id="_x32_3918476">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 276.4604 403.7295)" overflow="visible"/>
+	</g>
+	<g id="_x32_3918484">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 264.979 406.1807)" overflow="visible"/>
+	</g>
+	<g id="_x32_3918470">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 282.3467 403.7959)" overflow="visible"/>
+	</g>
+	<g id="_x31_9950838">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 97.2065 370.5439)" overflow="visible"/>
+	</g>
+	<g id="_x31_9950839">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 104.0562 370.4326)" overflow="visible"/>
+	</g>
+	<g id="_x31_9950840">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 122.1631 370.3711)" overflow="visible"/>
+	</g>
+	<g id="_x31_9950842">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 129.0327 370.3867)" overflow="visible"/>
+	</g>
+	<g id="_x31_9950843">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 135.7798 370.3965)" overflow="visible"/>
+	</g>
+	<g id="_x31_9545545">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 196.0469 369.9897)" overflow="visible"/>
+	</g>
+	<g id="_x31_9545546">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 217.5068 370.5601)" overflow="visible"/>
+	</g>
+	<g id="_x31_9545547">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 203.4106 370.437)" overflow="visible"/>
+	</g>
+	<g id="_x31_9545549">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 210.5195 370.437)" overflow="visible"/>
+	</g>
+	<g id="_x31_9301726">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 152.2642 405.6768)" overflow="visible"/>
+	</g>
+	<g id="_x31_1740133">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 100.5986 405.0654)" overflow="visible"/>
+	</g>
+	<g id="_x31_1740135">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 107.8608 405.0449)" overflow="visible"/>
+	</g>
+	<g id="_x31_1740136">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 115.1128 404.8867)" overflow="visible"/>
+	</g>
+	<g id="_x31_1743218">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 92.3828 454.0361)" overflow="visible"/>
+	</g>
+	<g id="_x31_1743219">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 99.4209 454.1992)" overflow="visible"/>
+	</g>
+	<g id="_x31_1743220">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 106.6167 454.001)" overflow="visible"/>
+	</g>
+	<g id="_x31_9301737">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 159.5977 405.5488)" overflow="visible"/>
+	</g>
+	<g id="_x31_9301739">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 166.3755 405.5186)" overflow="visible"/>
+	</g>
+	<g id="_x31_9301740">
+		
+			<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 173.3218 405.4521)" overflow="visible"/>
+	</g>
+</g>
+<g id="PowerTransformer_Layer">
+	<g id="_x31_9621477">
+		
+			<use xlink:href="#PowerTransformer_JX_柱上公变_2"  width="8.417" height="14.21" x="-4.208" y="-7.105" transform="matrix(0.5019 0 0 0.5019 226.1401 367.752)" overflow="visible"/>
+	</g>
+	<g id="_x32_3919123">
+		
+			<use xlink:href="#PowerTransformer_JX_专变"  width="8.418" height="14.21" x="-4.209" y="-7.105" transform="matrix(0.5019 0 0 0.5019 257.4766 400.248)" overflow="visible"/>
+	</g>
+</g>
+<g id="Substation_Layer">
+	<g id="_x31_7235406">
+		<path fill="none" stroke="#FFC03F" stroke-width="0.4" d="M148.324,397.188h32.27v14.791h-32.27V397.188"/>
+	</g>
+	<g id="_x31_1740078">
+		<path fill="none" stroke="#FFC03F" stroke-width="0.4" d="M96.368,397.331l32.222-0.188v15.842l-32.222,0.187V397.331"/>
+	</g>
+	<g id="_x32_0004330">
+		<path fill="none" stroke="#FFFFFF" stroke-width="0.4" d="M258.399,361.47"/>
+		<path fill="none" stroke="#007AD4" stroke-width="0.4" d="M258.399,361.47H193.08v19.208h65.319"/>
+	</g>
+	<g id="_x31_1743072">
+		<path fill="none" stroke="#0068BF" stroke-width="0.4" d="M85.467,442.007l36.067,0.244v21.739l-36.067-0.244V442.007"/>
+	</g>
+	<g id="_x31_1749173">
+		<path fill="none" stroke="#FFFFFF" stroke-width="0.4" d="M266.266,400.883"/>
+	</g>
+	<g id="_x31_9950817">
+		<path fill="none" stroke="#FFFFFF" stroke-width="0.4" d="M94.816,361.736"/>
+		<path fill="none" stroke="#0080D4" stroke-width="0.4" d="M94.816,361.736H141.4v16.885H94.816"/>
+	</g>
+	<g id="_x31_9950939">
+		<path fill="none" stroke="#FFFFFF" stroke-width="0.4" d="M94.816,361.736"/>
+		<path fill="none" stroke="#009AFF" stroke-width="0.4" d="M94.816,361.736v0.168v16.885v-0.168"/>
+	</g>
+	<g id="_x32_0004295">
+		<path fill="none" stroke="#FFFFFF" stroke-width="0.4" d="M258.399,361.47"/>
+		<path fill="none" stroke="#007AD4" stroke-width="0.4" d="M258.399,361.47v-0.004v19.207v0.005"/>
+	</g>
+	<g id="_x32_3919105">
+		<path fill="none" stroke="#0068BF" stroke-width="0.4" d="M250.632,395.372h37.789v17.315h-37.789V395.372"/>
+	</g>
+	<g id="_x31_1220122">
+		<path fill="none" stroke="#D40018" stroke-width="0.4" d="M42.772,397.139v14.534h26.775v-14.534H42.772"/>
+	</g>
+</g>
+<g id="Breaker_Layer">
+	<g id="_x31_1744266">
+		
+			<use xlink:href="#Breaker_JX_0_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(1.761589e-017 -0.2877 0.2877 1.761589e-017 91.7358 451.1826)" overflow="visible"/>
+	</g>
+	<g id="_x31_1744363">
+		
+			<use xlink:href="#Breaker_JX_0_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(1.761589e-017 -0.2877 0.2877 1.761589e-017 106.041 451.1826)" overflow="visible"/>
+	</g>
+</g>
+<g id="LoadBreakSwitch_Layer">
+	<g id="_x31_122548811220122">
+		
+			<use xlink:href="#Breaker_JX_0_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(3.665315e-017 0.5986 -0.5986 3.665315e-017 56.1587 404.4053)" overflow="visible"/>
+	</g>
+	<g id="_x32_0004162">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 233.8906 367.3745)" overflow="visible"/>
+	</g>
+	<g id="_x32_0004163">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 241.127 367.5581)" overflow="visible"/>
+	</g>
+	<g id="_x31_1740125">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 100.0278 402.2119)" overflow="visible"/>
+	</g>
+	<g id="_x31_1740126">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 107.2031 402.1904)" overflow="visible"/>
+	</g>
+	<g id="_x31_1740127">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 114.542 402.0127)" overflow="visible"/>
+	</g>
+	<g id="_x32_3918417">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 281.8267 400.0664)" overflow="visible"/>
+	</g>
+	<g id="_x32_3918430">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 275.9561 400.0703)" overflow="visible"/>
+	</g>
+	<g id="_x32_3918450">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 263.1641 400.1475)" overflow="visible"/>
+	</g>
+	<g id="_x31_9545529">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 202.896 367.3081)" overflow="visible"/>
+	</g>
+	<g id="_x31_9545533">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 210.0049 367.1401)" overflow="visible"/>
+	</g>
+	<g id="_x31_9301682">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 165.8096 402.6855)" overflow="visible"/>
+	</g>
+	<g id="_x31_9301580">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 151.7949 402.7471)" overflow="visible"/>
+	</g>
+	<g id="_x31_9301679">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 172.8833 402.5576)" overflow="visible"/>
+	</g>
+	<g id="_x31_9301687">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 158.9297 402.6855)" overflow="visible"/>
+	</g>
+	<g id="_x31_9302569">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 195.7046 367.3032)" overflow="visible"/>
+	</g>
+	<g id="_x31_9302573">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_0"  width="8.514" height="2.436" x="-4.257" y="-1.218" transform="matrix(3.202224e-017 -0.523 0.523 3.202224e-017 217.0342 367.1968)" overflow="visible"/>
+	</g>
+	<g id="_x31_9950822">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 135.2495 367.2881)" overflow="visible"/>
+	</g>
+	<g id="_x31_9950823">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 96.7988 367.4053)" overflow="visible"/>
+	</g>
+	<g id="_x31_9950824">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 103.5615 367.3232)" overflow="visible"/>
+	</g>
+	<g id="_x31_9950825">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_0"  width="8.514" height="2.436" x="-4.257" y="-1.218" transform="matrix(3.202224e-017 -0.523 0.523 3.202224e-017 128.6968 367.3389)" overflow="visible"/>
+	</g>
+	<g id="_x31_9950846">
+		
+			<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 121.7598 367.2881)" overflow="visible"/>
+	</g>
+</g>
+<g id="Text_Layer">
+	<g id="_x31_17401361_2_">
+		<text transform="matrix(1 0 0 1 160.0073 452.958)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60340</text>
+	</g>
+	<g id="_x31_17401271_2_">
+		<text transform="matrix(1 0 0 1 159.8188 449.0654)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">604</text>
+	</g>
+	<g id="_x31_17401361_1_">
+		<text transform="matrix(1 0 0 1 123.2393 406.7764)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60340</text>
+	</g>
+	<g id="_x31_17401271_1_">
+		<text transform="matrix(1 0 0 1 123.0508 402.8838)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">604</text>
+	</g>
+	<g id="_x31_32915331_1_">
+		
+			<text transform="matrix(1 0 0 1 208.6826 477.7783)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">蓄电池储能系统</text>
+	</g>
+	<g id="_x31_17432201_1_">
+		<text transform="matrix(1 0 0 1 222.8105 494.5449)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">91030</text>
+	</g>
+	<g id="_x31_17432191_1_">
+		<text transform="matrix(1 0 0 1 215.5586 494.8301)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">91020</text>
+	</g>
+	<g id="_x31_17432181_1_">
+		<text transform="matrix(1 0 0 1 208.5254 494.6367)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">91010</text>
+	</g>
+	<g id="_x31_17559041_1_">
+		<text transform="matrix(1 0 0 1 202.8701 499.6875)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">YJV22 -3*120 / 380m</text>
+	</g>
+	<g id="_x31_17443631_1_">
+		<text transform="matrix(1 0 0 1 222.7798 490.5898)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9103</text>
+	</g>
+	<g id="_x31_17431931_1_">
+		<text transform="matrix(1 0 0 1 222.6523 486.9619)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">91031</text>
+	</g>
+	<g id="_x31_17443321_1_">
+		<text transform="matrix(1 0 0 1 215.6855 490.6523)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9102</text>
+	</g>
+	<g id="_x31_17431921_1_">
+		<text transform="matrix(1 0 0 1 215.2017 486.9922)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">91021</text>
+	</g>
+	<g id="_x31_17431911_1_">
+		<text transform="matrix(1 0 0 1 208.1738 486.8955)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">91011</text>
+	</g>
+	<g id="_x31_17442661_1_">
+		<text transform="matrix(1 0 0 1 208.2402 490.4629)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9101</text>
+	</g>
+	<g id="_x31_32915331_2_">
+		
+			<text transform="matrix(1 0 0 1 286.7534 479.4189)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">模拟光伏阵列</text>
+	</g>
+	<g id="_x31_17432201_2_">
+		<text transform="matrix(1 0 0 1 299.8813 496.1855)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">91030</text>
+	</g>
+	<g id="_x31_17432191_2_">
+		<text transform="matrix(1 0 0 1 292.6294 496.4707)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">91020</text>
+	</g>
+	<g id="_x31_17432181_2_">
+		<text transform="matrix(1 0 0 1 285.5962 496.2773)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">91010</text>
+	</g>
+	<g id="_x31_17559041_2_">
+		<text transform="matrix(1 0 0 1 279.9409 501.3281)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">YJV22 -3*120 / 380m</text>
+	</g>
+	<g id="_x31_17443631_2_">
+		<text transform="matrix(1 0 0 1 299.8506 492.2305)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9103</text>
+	</g>
+	<g id="_x31_17431931_2_">
+		<text transform="matrix(1 0 0 1 299.7231 488.6025)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">91031</text>
+	</g>
+	<g id="_x31_17443321_2_">
+		<text transform="matrix(1 0 0 1 292.7563 492.293)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9102</text>
+	</g>
+	<g id="_x31_17431921_2_">
+		<text transform="matrix(1 0 0 1 292.2725 488.6328)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">91021</text>
+	</g>
+	<g id="_x31_17431911_2_">
+		<text transform="matrix(1 0 0 1 285.2446 488.5361)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">91011</text>
+	</g>
+	<g id="_x31_17442661_2_">
+		<text transform="matrix(1 0 0 1 285.311 492.1035)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9101</text>
+	</g>
+	<g id="_x31_72354061_1_">
+		
+			<text transform="matrix(1 0 0 1 214.4663 395.7207)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">分接开关柜3</text>
+	</g>
+	<g id="_x31_93017261_1_">
+		<text transform="matrix(1 0 0 1 207.3062 408.2939)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60140</text>
+	</g>
+	<g id="_x31_93017371_1_">
+		<text transform="matrix(1 0 0 1 214.7622 408.166)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60240</text>
+	</g>
+	<g id="_x31_93017391_1_">
+		<text transform="matrix(1 0 0 1 221.6064 408.0996)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60340</text>
+	</g>
+	<g id="_x31_93017401_1_">
+		<text transform="matrix(1 0 0 1 228.4199 407.9063)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60440</text>
+	</g>
+	<g id="_x31_93015801_1_">
+		<text transform="matrix(1 0 0 1 207.4639 403.5283)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">601</text>
+	</g>
+	<g id="_x31_93016871_1_">
+		<text transform="matrix(1 0 0 1 214.665 403.4629)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">602</text>
+	</g>
+	<g id="_x31_93016821_1_">
+		<text transform="matrix(1 0 0 1 221.5444 403.4014)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">603</text>
+	</g>
+	<g id="_x31_93016791_1_">
+		<text transform="matrix(1 0 0 1 228.6797 403.2734)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">604</text>
+	</g>
+	<g id="_x31_72354061_2_">
+		
+			<text transform="matrix(1 0 0 1 262.6753 441.3594)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">分接开关柜6</text>
+	</g>
+	<g id="_x31_93017261_2_">
+		<text transform="matrix(1 0 0 1 255.5151 453.9326)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60140</text>
+	</g>
+	<g id="_x31_93017371_2_">
+		<text transform="matrix(1 0 0 1 262.9712 453.8047)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60240</text>
+	</g>
+	<g id="_x31_93017391_2_">
+		<text transform="matrix(1 0 0 1 269.8154 453.7383)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60340</text>
+	</g>
+	<g id="_x31_93017401_2_">
+		<text transform="matrix(1 0 0 1 276.6289 453.5449)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60440</text>
+	</g>
+	<g id="_x31_93015801_2_">
+		<text transform="matrix(1 0 0 1 255.6729 449.167)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">601</text>
+	</g>
+	<g id="_x31_93016871_2_">
+		<text transform="matrix(1 0 0 1 262.874 449.1016)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">602</text>
+	</g>
+	<g id="_x31_93016821_2_">
+		<text transform="matrix(1 0 0 1 269.7534 449.04)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">603</text>
+	</g>
+	<g id="_x31_93016791_2_">
+		<text transform="matrix(1 0 0 1 276.8887 448.9121)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">604</text>
+	</g>
+	<g id="_x32_39191231_1_">
+		
+			<text transform="matrix(6.123234e-017 1 -1 6.123234e-017 300.7422 442.4102)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">S11-M-630</text>
+	</g>
+	<g id="_x32_39191051_1_">
+		
+			<text transform="matrix(1 0 0 1 310.8574 439.3838)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">模拟负荷</text>
+	</g>
+	<g id="_x31_72354061_3_">
+		
+			<text transform="matrix(1 0 0 1 196.4004 441.7139)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">分接开关柜5</text>
+	</g>
+	<g id="_x31_17400781_1_">
+		
+			<text transform="matrix(1 0 0 1 140.4351 441.3594)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">分接开关柜4</text>
+	</g>
+	<g id="_x31_93017261_3_">
+		<text transform="matrix(1 0 0 1 189.2402 454.2871)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60140</text>
+	</g>
+	<g id="_x31_93017371_3_">
+		<text transform="matrix(1 0 0 1 196.6963 454.1592)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60240</text>
+	</g>
+	<g id="_x31_93017391_3_">
+		<text transform="matrix(1 0 0 1 203.5405 454.0928)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60340</text>
+	</g>
+	<g id="_x31_93017401_3_">
+		<text transform="matrix(1 0 0 1 210.354 453.8994)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60440</text>
+	</g>
+	<g id="_x31_17401361_3_">
+		<text transform="matrix(1 0 0 1 152.7925 453.6396)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60340</text>
+	</g>
+	<g id="_x31_17401351_1_">
+		<text transform="matrix(1 0 0 1 145.4331 453.7314)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60240</text>
+	</g>
+	<g id="_x31_17401331_1_">
+		<text transform="matrix(1 0 0 1 138.1709 453.8232)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60140</text>
+	</g>
+	<g id="_x32_39184761_1_">
+		<text transform="matrix(1 0 0 1 324.873 451.5723)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60140</text>
+	</g>
+	<g id="_x32_39184841_1_">
+		<text transform="matrix(1 0 0 1 313.5332 453.998)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">80140</text>
+	</g>
+	<g id="_x32_39184701_1_">
+		<text transform="matrix(1 0 0 1 330.8711 451.5977)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60240</text>
+	</g>
+	<g id="_x31_93015801_3_">
+		<text transform="matrix(1 0 0 1 189.3979 449.5215)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">601</text>
+	</g>
+	<g id="_x31_93016871_3_">
+		<text transform="matrix(1 0 0 1 196.5991 449.4561)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">602</text>
+	</g>
+	<g id="_x31_93016821_3_">
+		<text transform="matrix(1 0 0 1 203.4785 449.3945)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">603</text>
+	</g>
+	<g id="_x31_93016791_3_">
+		<text transform="matrix(1 0 0 1 210.6138 449.2666)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">604</text>
+	</g>
+	<g id="_x31_17401251_1_">
+		<text transform="matrix(1 0 0 1 137.9824 449.4658)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">601</text>
+	</g>
+	<g id="_x31_17401261_1_">
+		<text transform="matrix(1 0 0 1 145.1528 449.6543)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">602</text>
+	</g>
+	<g id="_x31_17401271_3_">
+		<text transform="matrix(1 0 0 1 152.604 449.7471)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">603</text>
+	</g>
+	<g id="_x32_39184171_1_">
+		<text transform="matrix(1 0 0 1 330.5039 446.9805)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">602</text>
+	</g>
+	<g id="_x32_39184301_1_">
+		<text transform="matrix(1 0 0 1 324.668 447.1738)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">601</text>
+	</g>
+	<g id="_x32_39184501_1_">
+		<text transform="matrix(1 0 0 1 312.1113 447.0107)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">801</text>
+	</g>
+	<g id="_x32_39191231">
+		
+			<text transform="matrix(6.123234e-017 1 -1 6.123234e-017 252.5352 396.7715)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">S11-M-630</text>
+	</g>
+	<g id="_x31_96214771">
+		
+			<text transform="matrix(0.0175 0.9998 -0.9998 0.0175 228.8525 364.4517)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.834">SCB9-800/10</text>
+	</g>
+	<g id="_x32_00043301">
+		
+			<text transform="matrix(1 0 0 1 209.9917 359.1582)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">模拟风力发电设备</text>
+	</g>
+	<g id="_x31_32915331">
+		<text transform="matrix(1 0 0 1 90.8906 439.4082)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">双向DC/AC变流器</text>
+	</g>
+	<g id="_x31_99509491">
+		
+			<text transform="matrix(1 0 0 1 108.9136 359.7168)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">真实光伏设备</text>
+	</g>
+	<g id="_x31_99509501">
+		
+			<text transform="matrix(1 0 0 1 127.0088 374.9463)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="1.2231">备用</text>
+	</g>
+	<g id="_x31_12201228">
+		<text transform="matrix(1 0 0 1 47.9141 394.6084)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">无穷大电源</text>
+	</g>
+	<g id="_x32_39191051">
+		
+			<text transform="matrix(1 0 0 1 262.6489 393.7451)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">模拟负荷</text>
+	</g>
+	<g id="_x31_72354061">
+		
+			<text transform="matrix(1 0 0 1 159.6323 395.5322)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">分接开关柜2</text>
+	</g>
+	<g id="_x31_17400781">
+		<text transform="matrix(1 0 0 1 106.188 395.5322)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">分接开关柜1</text>
+	</g>
+	<g id="_x31_93017261">
+		<text transform="matrix(1 0 0 1 152.4722 408.1055)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60140</text>
+	</g>
+	<g id="_x31_93017371">
+		<text transform="matrix(1 0 0 1 159.9282 407.9775)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60240</text>
+	</g>
+	<g id="_x31_93017391">
+		<text transform="matrix(1 0 0 1 166.7725 407.9111)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60340</text>
+	</g>
+	<g id="_x31_93017401">
+		<text transform="matrix(1 0 0 1 173.5859 407.7178)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60440</text>
+	</g>
+	<g id="_x31_99508431">
+		<text transform="matrix(1 0 0 1 136.0591 372.667)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60140</text>
+	</g>
+	<g id="_x31_99508421">
+		<text transform="matrix(1 0 0 1 129.2813 372.582)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60240</text>
+	</g>
+	<g id="_x31_99508401">
+		<text transform="matrix(1 0 0 1 122.4575 372.582)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60340</text>
+	</g>
+	<g id="_x31_99508391">
+		<text transform="matrix(1 0 0 1 104.3506 372.7129)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60440</text>
+	</g>
+	<g id="_x31_99508381">
+		<text transform="matrix(1 0 0 1 97.5269 372.7539)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">80140</text>
+	</g>
+	<g id="_x31_95455461">
+		<text transform="matrix(1 0 0 1 217.8574 372.8252)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">9B040</text>
+	</g>
+	<g id="_x31_95455491">
+		<text transform="matrix(1 0 0 1 210.8252 372.7031)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">9B030</text>
+	</g>
+	<g id="_x31_95455471">
+		<text transform="matrix(1 0 0 1 203.7563 372.7441)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">91020</text>
+	</g>
+	<g id="_x31_95455451">
+		<text transform="matrix(1 0 0 1 196.3921 372.2148)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">91010</text>
+	</g>
+	<g id="_x31_17401361">
+		<text transform="matrix(1 0 0 1 116.0244 407.458)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60340</text>
+	</g>
+	<g id="_x31_17401351">
+		<text transform="matrix(1 0 0 1 108.665 407.5498)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60240</text>
+	</g>
+	<g id="_x31_17401331">
+		<text transform="matrix(1 0 0 1 101.4028 407.6416)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60140</text>
+	</g>
+	<g id="_x32_00041861">
+		<text transform="matrix(1 0 0 1 234.7822 372.8799)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60140</text>
+	</g>
+	<g id="_x32_00041801">
+		<text transform="matrix(1 0 0 1 241.9521 372.7285)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">80140</text>
+	</g>
+	<g id="_x31_17432201">
+		<text transform="matrix(1 0 0 1 107.0186 456.1748)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">91030</text>
+	</g>
+	<g id="_x31_17432191">
+		<text transform="matrix(1 0 0 1 99.7666 456.46)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">91020</text>
+	</g>
+	<g id="_x31_17432181">
+		<text transform="matrix(1 0 0 1 92.7334 456.2666)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">91010</text>
+	</g>
+	<g id="_x32_39184761">
+		<text transform="matrix(1 0 0 1 276.6636 405.9336)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60140</text>
+	</g>
+	<g id="_x32_39184841">
+		<text transform="matrix(1 0 0 1 265.3242 408.3594)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">80140</text>
+	</g>
+	<g id="_x32_39184701">
+		<text transform="matrix(1 0 0 1 282.6616 405.959)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.2231">60240</text>
+	</g>
+	<g id="_x31_17589491">
+		
+			<text transform="matrix(1 0 0 1 127.0088 426.3076)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">模拟线路1</text>
+	</g>
+	<g id="_x31_17559041">
+		<text transform="matrix(1 0 0 1 87.0781 461.3174)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">YJV22 -3*120 / 380m</text>
+	</g>
+	<g id="_x31_17529441">
+		
+			<text transform="matrix(1 0 0 1 182.2949 426.3076)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">模拟线路2</text>
+	</g>
+	<g id="_x31_72342121">
+		
+			<text transform="matrix(1 0 0 1 249.7197 424.6582)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">模拟线路3</text>
+	</g>
+	<g id="_x31_72343791">
+		<text transform="matrix(1 0 0 1 164.4438 471.209)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">模拟线路4</text>
+	</g>
+	<g id="_x32_39191921">
+		
+			<text transform="matrix(1 0 0 1 296.3633 469.5439)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">模拟线路6</text>
+	</g>
+	<g id="_x31_99509521">
+		<text transform="matrix(1 0 0 1 233.2148 470.666)" fill="#FFFFFF" font-family="'AdobeSongStd-Light-GBpc-EUC-H'" font-size="3">模拟线路5</text>
+	</g>
+	<g id="_x31_93015801">
+		<text transform="matrix(1 0 0 1 152.6299 403.3398)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">601</text>
+	</g>
+	<g id="_x31_93016871">
+		<text transform="matrix(1 0 0 1 159.8311 403.2744)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">602</text>
+	</g>
+	<g id="_x31_93016821">
+		<text transform="matrix(1 0 0 1 166.7104 403.2129)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">603</text>
+	</g>
+	<g id="_x31_93016791">
+		<text transform="matrix(1 0 0 1 173.8457 403.085)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">604</text>
+	</g>
+	<g id="_x31_93025691">
+		<text transform="matrix(1 0 0 1 196.606 368.2031)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9101</text>
+	</g>
+	<g id="_x31_95455291">
+		<text transform="matrix(1 0 0 1 203.8789 368.2031)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9102</text>
+	</g>
+	<g id="_x31_95455331">
+		<text transform="matrix(1 0 0 1 210.9521 368.1211)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9B03</text>
+	</g>
+	<g id="_x31_93025731">
+		<text transform="matrix(1 0 0 1 217.7354 368.1621)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9B04</text>
+	</g>
+	<g id="_x31_99508221">
+		<text transform="matrix(1 0 0 1 136.3652 368.2285)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">601</text>
+	</g>
+	<g id="_x31_99508251">
+		<text transform="matrix(1 0 0 1 129.5 368.2695)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">602</text>
+	</g>
+	<g id="_x31_99508461">
+		<text transform="matrix(1 0 0 1 122.6362 368.2285)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">603</text>
+	</g>
+	<g id="_x31_99508241">
+		<text transform="matrix(1 0 0 1 104.3506 368.2695)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">604</text>
+	</g>
+	<g id="_x31_99508231">
+		<text transform="matrix(1 0 0 1 97.792 368.3613)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">801</text>
+	</g>
+	<g id="_x32_00041621">
+		<text transform="matrix(1 0 0 1 234.8896 368.2891)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">601</text>
+	</g>
+	<g id="_x32_00041631">
+		<text transform="matrix(1 0 0 1 242.1719 368.1367)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">801</text>
+	</g>
+	<g id="_x31_17443631">
+		<text transform="matrix(1 0 0 1 106.9878 452.2197)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9103</text>
+	</g>
+	<g id="_x31_17431931">
+		<text transform="matrix(1 0 0 1 106.8604 448.5918)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">91031</text>
+	</g>
+	<g id="_x31_17443321">
+		<text transform="matrix(1 0 0 1 99.8936 452.2822)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9102</text>
+	</g>
+	<g id="_x31_17431921">
+		<text transform="matrix(1 0 0 1 99.4097 448.6221)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">91021</text>
+	</g>
+	<g id="_x31_17431911">
+		<text transform="matrix(1 0 0 1 92.3818 448.5254)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">91011</text>
+	</g>
+	<g id="_x31_17442661">
+		<text transform="matrix(1 0 0 1 92.4482 452.0928)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">9101</text>
+	</g>
+	<g id="_x31_17401251">
+		<text transform="matrix(1 0 0 1 101.2144 403.2842)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">601</text>
+	</g>
+	<g id="_x31_17401261">
+		<text transform="matrix(1 0 0 1 108.3848 403.4727)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">602</text>
+	</g>
+	<g id="_x31_17401271">
+		<text transform="matrix(1 0 0 1 115.8359 403.5654)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">603</text>
+	</g>
+	<g id="_x32_39184171">
+		<text transform="matrix(1 0 0 1 282.2949 401.3418)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">602</text>
+	</g>
+	<g id="_x32_39184301">
+		<text transform="matrix(1 0 0 1 276.4595 401.5352)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">601</text>
+	</g>
+	<g id="_x32_39184501">
+		<text transform="matrix(1 0 0 1 263.9023 401.3721)" fill="#FFFFFF" font-family="'ArialMT'" font-size="1.8347">801</text>
+	</g>
+</g>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M216.157,412.967"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M214.007,406.764"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M220.577,407.016"/>
+<use xlink:href="#FaultIndicator"  width="4.885" height="4.885" x="-2.443" y="-2.332" transform="matrix(0.8763 0 0 0.8763 228.4185 409.3271)" overflow="visible" enable-background="new    "/>
+<g id="_x31_9301694_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M206.629,401.331v-1.405"/>
+</g>
+<g id="_x31_9301700_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M213.763,401.204v-1.405"/>
+</g>
+<g id="_x31_9301702_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M220.643,401.364v-1.511"/>
+</g>
+<g id="_x31_9301703_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M227.681,401.234v-1.381"/>
+</g>
+<g id="_x33_4258659_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M213.728,405.104l0.071-0.469l-0.036,0.231l0.143,0.832l0.103,1.063
+		l-0.209-2.129"/>
+</g>
+<g id="_x33_4258660_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M227.675,404.977l0.005-0.406v0.201l0.005,0.99v1.19l-0.005-2.388"/>
+</g>
+<g id="_x33_4258661_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M220.602,405.104l0.011-0.406l-0.005,0.203l-0.01,0.957l-0.021,1.158
+		l0.036-2.318"/>
+</g>
+<g id="_x33_4258663_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M206.506,406.764l0.091-2.002l-0.045,0.998l0.041-0.795l-0.005,0.204
+		l0.01-0.407"/>
+</g>
+<g id="_x31_9301156_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M204.442,399.915h25.333"/>
+</g>
+<g id="_x31_9301726_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 207.0981 405.8652)" overflow="visible"/>
+</g>
+<g id="_x31_9301737_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 214.4316 405.7373)" overflow="visible"/>
+</g>
+<g id="_x31_9301739_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 221.2095 405.707)" overflow="visible"/>
+</g>
+<g id="_x31_9301740_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 228.1558 405.6406)" overflow="visible"/>
+</g>
+<g id="_x31_7235406_1_">
+	<path fill="none" stroke="#FFC03F" stroke-width="0.4" d="M203.158,397.376h32.27v14.791h-32.27V397.376"/>
+</g>
+<g id="_x31_9301682_1_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 220.6436 402.874)" overflow="visible"/>
+</g>
+<g id="_x31_9301580_1_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 206.6289 402.9355)" overflow="visible"/>
+</g>
+<g id="_x31_9301679_1_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 227.7173 402.7461)" overflow="visible"/>
+</g>
+<g id="_x31_9301687_1_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 213.7637 402.874)" overflow="visible"/>
+</g>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M276.077,417.75"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M325.422,474.636"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M332.922,474.683"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M151.904,421.093"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M114.419,421.847"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M114.572,406.529"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M114.419,421.847"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M281.997,404.678v1.502"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M129.409,470.605"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M159.038,406.221"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M114.419,415.71"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M131.749,415.823"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M171.491,528.744"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M132.491,528.744"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M197.244,416.622"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M206.805,416.622"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M114.419,415.71"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M114.572,406.529"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M105.573,468.569"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M105.712,456.06"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M121.634,406.652"/>
+<g id="_x31_6482461_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M121.634,401.313v-0.088"/>
+</g>
+<g id="_x33_4258650_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M121.797,403.563l-0.021-0.104l0.011,0.051l-0.005,1.144l0.005,1.197
+		l-0.011-2.392"/>
+</g>
+<g id="_x31_1740136_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 122.3276 404.2051)" overflow="visible"/>
+</g>
+<g id="_x31_1740127_1_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 121.7568 401.3311)" overflow="visible"/>
+</g>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M121.787,405.85"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M121.787,405.85"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M188.441,452.755"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M188.672,467.274"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M151.187,453.517"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M195.941,462.804"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M195.941,452.757"/>
+<g id="_x31_1753483_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M295.261,464.505"/>
+</g>
+<g id="_x31_1752944_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M143.95,452.854"/>
+</g>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M202.511,464.73"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M202.511,453.009"/>
+<use xlink:href="#FaultIndicator"  width="4.885" height="4.885" x="-2.443" y="-2.332" transform="matrix(0.8763 0 0 0.8763 188.4385 456.1475)" overflow="visible" enable-background="new    "/>
+<g id="_x32_3918564_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M324.031,450.283v5.835h-4.873v-2.711"/>
+</g>
+<g id="_x32_3919150_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M311.24,454.482v1.641h-5.515v-4.266"/>
+</g>
+<g id="_x31_6482459_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M136.795,448.396v-0.086"/>
+</g>
+<g id="_x31_6482460_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M143.97,448.375v-0.092"/>
+</g>
+<g id="_x31_6482461_3_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M151.187,448.177v-0.088"/>
+</g>
+<g id="_x31_6482462_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M158.525,448.365v-0.087"/>
+</g>
+<g id="_x31_9301694_3_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M188.563,447.325v-1.404"/>
+</g>
+<g id="_x31_9301700_3_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M195.697,447.198v-1.404"/>
+</g>
+<g id="_x31_9301702_3_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M202.577,447.356v-1.511"/>
+</g>
+<g id="_x31_9301703_3_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M209.615,447.229v-1.383"/>
+</g>
+<g id="_x32_3919186_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M329.947,445.533v0.199"/>
+</g>
+<g id="_x32_3919179_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M311.395,444.928v0.277"/>
+</g>
+<g id="_x32_3919181_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M323.945,445.32v0.219"/>
+</g>
+<g id="_x33_4258641_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M144.011,450.603l-0.051-0.098l0.026,0.051l-0.031,1.121l-0.005,1.179
+		l0.01-2.351"/>
+</g>
+<g id="_x33_4258645_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M295.221,444.666"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M295.236,444.671"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M295.226,447.065"/>
+</g>
+<g id="_x33_4258649_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M136.714,452.747l0.071-2.281l-0.036,1.146l0.062-1.063l0.025,0.082
+		l-0.051-0.164"/>
+</g>
+<g id="_x33_4258650_3_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M151.35,450.425l-0.021-0.104l0.011,0.051l-0.005,1.145l0.005,1.197
+		l-0.011-2.393"/>
+</g>
+<g id="_x33_4258653_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M318.989,456.76"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M318.989,456.74"/>
+</g>
+<g id="_x33_4258659_3_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M195.662,451.097l0.071-0.469l-0.036,0.229l0.143,0.831l0.103,1.063
+		l-0.209-2.131"/>
+</g>
+<g id="_x33_4258660_3_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M209.609,450.97l0.005-0.408v0.203l0.005,0.99v1.188l-0.005-2.386"/>
+</g>
+<g id="_x33_4258661_3_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M202.536,451.097l0.011-0.407l-0.005,0.204l-0.01,0.957l-0.021,1.158
+		l0.036-2.32"/>
+</g>
+<g id="_x33_4258663_3_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M188.44,452.757l0.091-2.002l-0.045,0.998l0.041-0.797l-0.005,0.204
+		l0.01-0.405"/>
+</g>
+<g id="_x33_4258682_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M319.159,453.407l0.205-9.963"/>
+</g>
+<g id="_x33_4258685_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M311.24,454.482l0.097-6.457l0.036-0.008l-0.066,0.008"/>
+</g>
+<g id="_x33_4258687_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M329.928,450.309l0.006-2.398v1.196l0.052-1.183l0.051,0.015
+		l-0.103-0.028"/>
+</g>
+<g id="_x33_4258689_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M324.031,450.283l0.069-2.363l0.062,0.023l-0.127-0.045"/>
+</g>
+<g id="_x33_4258691_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M305.727,451.858l-0.02-2.392l-0.021-0.014l0.041,0.021"/>
+</g>
+<g id="_x31_1740124_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M135.277,446.286l26.175-0.179"/>
+</g>
+<g id="_x31_9301156_3_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M186.376,445.909h25.333"/>
+</g>
+<g id="_x32_3917868_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M319.518,443.704h-8.657"/>
+</g>
+<g id="_x32_3917865_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M323.619,443.674h6.731"/>
+</g>
+<g id="_x32_3918476_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 324.6699 449.3682)" overflow="visible"/>
+</g>
+<g id="_x32_3918484_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 313.1885 451.8193)" overflow="visible"/>
+</g>
+<g id="_x32_3918470_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 330.5566 449.4346)" overflow="visible"/>
+</g>
+<g id="_x31_9301726_3_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 189.0322 451.8584)" overflow="visible"/>
+</g>
+<g id="_x31_1740133_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 137.3667 451.2471)" overflow="visible"/>
+</g>
+<g id="_x31_1740135_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 144.6289 451.2266)" overflow="visible"/>
+</g>
+<g id="_x31_1740136_3_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 151.8809 451.0684)" overflow="visible"/>
+</g>
+<g id="_x31_9301737_3_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 196.3657 451.7305)" overflow="visible"/>
+</g>
+<g id="_x31_9301739_3_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 203.1436 451.7002)" overflow="visible"/>
+</g>
+<g id="_x31_9301740_3_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 210.0898 451.6338)" overflow="visible"/>
+</g>
+<g id="_x32_3919123_1_">
+	
+		<use xlink:href="#PowerTransformer_JX_专变"  width="8.418" height="14.21" x="-4.209" y="-7.105" transform="matrix(0.5019 0 0 0.5019 305.6855 445.8877)" overflow="visible"/>
+</g>
+<g id="_x31_7235406_3_">
+	<path fill="none" stroke="#FFC03F" stroke-width="0.4" d="M185.092,443.37h32.27v14.79h-32.27V443.37"/>
+</g>
+<g id="_x31_1740078_1_">
+	<path fill="none" stroke="#FFC03F" stroke-width="0.4" d="M133.136,443.513l32.222-0.188v15.84l-32.222,0.188V443.513"/>
+</g>
+<g id="_x31_1749173_1_">
+	<path fill="none" stroke="#FFFFFF" stroke-width="0.4" d="M314.475,446.521"/>
+</g>
+<g id="_x32_3919105_1_">
+	<path fill="none" stroke="#0068BF" stroke-width="0.4" d="M298.841,441.012h37.79v17.315h-37.79V441.012"/>
+</g>
+<g id="_x31_1740125_1_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 136.7959 448.3936)" overflow="visible"/>
+</g>
+<g id="_x31_1740126_1_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 143.9712 448.3721)" overflow="visible"/>
+</g>
+<g id="_x31_1740127_3_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 151.3101 448.1943)" overflow="visible"/>
+</g>
+<g id="_x32_3918417_1_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 330.0352 445.7051)" overflow="visible"/>
+</g>
+<g id="_x32_3918430_1_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 324.166 445.709)" overflow="visible"/>
+</g>
+<g id="_x32_3918450_1_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 311.373 445.7861)" overflow="visible"/>
+</g>
+<g id="_x31_9301682_3_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 202.5776 448.8672)" overflow="visible"/>
+</g>
+<g id="_x31_9301580_3_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 188.563 448.9287)" overflow="visible"/>
+</g>
+<g id="_x31_9301679_3_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 209.6514 448.7393)" overflow="visible"/>
+</g>
+<g id="_x31_9301687_3_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 195.6978 448.8672)" overflow="visible"/>
+</g>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M264.366,458.605"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M262.216,452.402"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M268.786,452.654"/>
+<use xlink:href="#FaultIndicator"  width="4.885" height="4.885" x="-2.443" y="-2.332" transform="matrix(0.8763 0 0 0.8763 261.958 455.1494)" overflow="visible" enable-background="new    "/>
+<g id="_x31_9301694_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M254.838,446.97v-1.404"/>
+</g>
+<g id="_x31_9301700_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M261.972,446.843v-1.404"/>
+</g>
+<g id="_x31_9301702_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M268.852,447.003v-1.513"/>
+</g>
+<g id="_x31_9301703_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M275.89,446.875v-1.383"/>
+</g>
+<g id="_x33_4258659_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M261.937,450.742l0.071-0.469l-0.036,0.23l0.143,0.832l0.103,1.063
+		l-0.209-2.13"/>
+</g>
+<g id="_x33_4258660_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M275.884,450.615l0.005-0.406v0.201l0.005,0.99v1.189l-0.005-2.388"/>
+</g>
+<g id="_x33_4258661_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M268.811,450.742l0.011-0.405l-0.005,0.202l-0.01,0.957l-0.021,1.158
+		l0.036-2.317"/>
+</g>
+<g id="_x33_4258663_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M254.715,452.402l0.091-2.002l-0.045,0.998l0.041-0.796l-0.005,0.204
+		l0.01-0.406"/>
+</g>
+<g id="_x31_9301156_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M252.651,445.554h25.333"/>
+</g>
+<g id="_x31_9301726_2_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 255.3071 451.5039)" overflow="visible"/>
+</g>
+<g id="_x31_9301737_2_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 262.6406 451.376)" overflow="visible"/>
+</g>
+<g id="_x31_9301739_2_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 269.4185 451.3457)" overflow="visible"/>
+</g>
+<g id="_x31_9301740_2_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 276.3647 451.2793)" overflow="visible"/>
+</g>
+<g id="_x31_7235406_2_">
+	<path fill="none" stroke="#FFC03F" stroke-width="0.4" d="M251.367,443.015h32.27v14.791h-32.27V443.015"/>
+</g>
+<g id="_x31_9301682_2_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 268.8525 448.5127)" overflow="visible"/>
+</g>
+<g id="_x31_9301580_2_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 254.8379 448.5742)" overflow="visible"/>
+</g>
+<g id="_x31_9301679_2_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 275.9263 448.3848)" overflow="visible"/>
+</g>
+<g id="_x31_9301687_2_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 261.9727 448.5127)" overflow="visible"/>
+</g>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M324.285,463.389"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M188.672,467.274"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M151.187,468.028"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M151.34,452.712"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M151.187,468.028"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M330.207,450.316v1.501"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M195.806,452.402"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M151.187,461.892"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M168.517,462.005"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M245.453,462.261"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M255.014,462.261"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M151.187,461.892"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M151.34,452.712"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M255.015,462.261"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M254.705,451.944"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M158.402,452.835"/>
+<g id="_x31_6482461_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M158.402,447.495v-0.088"/>
+</g>
+<g id="_x33_4258650_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M158.565,449.743l-0.021-0.104l0.011,0.052l-0.005,1.145l0.005,1.195
+		l-0.011-2.392"/>
+</g>
+<g id="_x31_1740136_2_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 159.0957 450.3867)" overflow="visible"/>
+</g>
+<g id="_x31_1740127_2_">
+	
+		<use xlink:href="#LoadBreakSwitch_JX_7_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(2.055187e-017 -0.3357 0.3357 2.055187e-017 158.5249 447.5127)" overflow="visible"/>
+</g>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M158.555,452.03"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M158.555,452.03"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M154.363,439.384"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M107.182,406.673"/>
+<use xlink:href="#FaultIndicator"  width="4.885" height="4.885" x="-2.443" y="-2.332" transform="matrix(0.8763 0 0 0.8763 330.8691 454.9658)" overflow="visible" enable-background="new    "/>
+<use xlink:href="#FaultIndicator"  width="4.885" height="4.885" x="-2.443" y="-2.332" transform="matrix(0.8763 0 0 0.8763 113.9658 409.9727)" overflow="visible" enable-background="new    "/>
+<g>
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M220.577,407.016"/>
+</g>
+<g id="monixianlu7">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M56.159,404.404l-0.352,1.666v13.168h44.139v-12.674"/>
+	<polygon fill="#00FF00" points="57.594,420.447 62.097,419.24 57.594,418.031 	"/>
+	<polygon fill="#00FF00" points="69.547,420.447 74.05,419.24 69.547,418.031 	"/>
+	<polygon fill="#00FF00" points="80.772,420.447 85.275,419.24 80.772,418.031 	"/>
+	<polygon fill="#00FF00" points="92.565,420.447 97.067,419.24 92.565,418.031 	"/>
+</g>
+<g id="monixianlu5">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M202.547,450.688l-0.036,2.241v13.168l59.461-0.347l-0.035-13.229"/>
+	<polygon fill="#00FF00" points="205.701,467.274 210.204,466.067 205.701,464.858 	"/>
+	<polygon fill="#00FF00" points="221.123,467.307 225.625,466.1 221.123,464.891 	"/>
+	<polygon fill="#00FF00" points="238.225,467.274 242.728,466.067 238.225,464.858 	"/>
+	<polygon fill="#00FF00" points="254.144,467.274 258.647,466.067 254.144,464.858 	"/>
+</g>
+<g id="monixianlu2">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M165.779,404.507l-0.036,2.242v13.168l48.02,0.194l-0.035-13.228"/>
+	<polygon fill="#00FF00" points="169.284,421.126 173.787,419.919 169.284,418.71 	"/>
+	<polygon fill="#00FF00" points="181.237,421.126 185.74,419.919 181.237,418.71 	"/>
+	<polygon fill="#00FF00" points="192.462,421.126 196.965,419.919 192.462,418.71 	"/>
+	<polygon fill="#00FF00" points="204.254,421.126 208.757,419.919 204.254,418.71 	"/>
+</g>
+<g id="monixianlu1">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M114.567,405.333l-0.148,1.61v13.168l37.485-0.194v-13.008"/>
+	<polygon fill="#00FF00" points="116.629,421.32 121.131,420.113 116.629,418.904 	"/>
+	<polygon fill="#00FF00" points="128.994,421.096 133.497,419.889 128.994,418.68 	"/>
+	<polygon fill="#00FF00" points="143.029,421.263 147.532,420.057 143.029,418.848 	"/>
+</g>
+<g id="monixianlu4">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M158.55,450.834l0.276,2.457v13.171l29.845-0.363v-13.008"/>
+	<polygon fill="#00FF00" points="159.709,467.67 164.212,466.463 159.709,465.254 	"/>
+	<polygon fill="#00FF00" points="171.359,467.67 175.862,466.463 171.359,465.254 	"/>
+	<polygon fill="#00FF00" points="182.23,467.307 186.733,466.1 182.23,464.891 	"/>
+</g>
+<g id="monixianlu6">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M275.894,452.591L275.894,452.591l0.032,12.965h54.578l-0.125-14.121"/>
+	<polygon fill="#00FF00" points="276.726,466.747 281.229,465.54 276.726,464.331 	"/>
+	<polygon fill="#00FF00" points="292.147,466.779 296.65,465.572 292.147,464.363 	"/>
+	<polygon fill="#00FF00" points="309.25,466.747 313.753,465.54 309.25,464.331 	"/>
+	<polygon fill="#00FF00" points="325.17,466.747 329.672,465.54 325.17,464.331 	"/>
+</g>
+<g id="monixianlu3">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M227.685,406.952L227.685,406.952l0.032,12.967h54.578l-0.126-14.121"/>
+	<polygon fill="#00FF00" points="228.517,421.079 233.02,419.872 228.517,418.663 	"/>
+	<polygon fill="#00FF00" points="243.939,421.111 248.441,419.904 243.939,418.695 	"/>
+	<polygon fill="#00FF00" points="261.041,421.079 265.544,419.872 261.041,418.663 	"/>
+	<polygon fill="#00FF00" points="276.96,421.079 281.463,419.872 276.96,418.663 	"/>
+</g>
+<g id="monixianlu8">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M195.735,371.165l0.01,45.458"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M206.506,406.764l0.299,9.858"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M195.648,416.622h11.157"/>
+	<polygon fill="#00FF00" points="194.671,383.485 195.879,387.989 197.087,383.485 	"/>
+	<polygon fill="#00FF00" points="194.505,397.568 195.712,402.073 196.921,397.568 	"/>
+	<polygon fill="#00FF00" points="194.44,410.473 195.647,414.977 196.856,410.473 	"/>
+</g>
+<g id="monixianlu9">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M135.245,371.089l-0.029,45.533"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M121.797,416.501h13.029"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M121.882,416.107l-0.122-14.526"/>
+	<polygon fill="#00FF00" points="134.173,383.822 135.38,388.326 136.589,383.822 	"/>
+	<polygon fill="#00FF00" points="134.007,397.907 135.214,402.411 136.423,397.907 	"/>
+	<polygon fill="#00FF00" points="133.941,410.809 135.148,415.313 136.357,410.809 	"/>
+</g>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M223.938,477.606"/>
+<g id="_x31_1754171_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M221.802,493.999"/>
+</g>
+<g id="_x31_1753221_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M236.232,498.771"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M236.232,494.703"/>
+</g>
+<g id="_x31_6482549_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M207.573,485.968v-0.093"/>
+</g>
+<g id="_x31_6482550_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M214.723,486.101v-0.092"/>
+</g>
+<g id="_x31_6482551_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M221.874,485.968v-0.093"/>
+</g>
+<g id="_x33_4258642_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M214.643,491.936l-0.01-0.109l0.005,0.058l-0.005,1.018v-1.069v2.142"/>
+</g>
+<g id="_x33_4258643_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M221.791,491.783l0.005-0.187v0.095l0.005,1.107v1.197l-0.005-2.399"/>
+</g>
+<g id="_x33_4258644_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M229.034,490.249"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M229.034,488.108"/>
+</g>
+<g id="_x33_4258652_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M207.512,493.913l0.015-2.335l-0.005,1.168l-0.015-1.064l-0.02,0.104
+		l0.041-0.204"/>
+</g>
+<g id="_x31_1743185_1_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M206.028,484.031l19.243-0.025"/>
+</g>
+<g id="Disconnector_Layer_1_">
+	<g id="_x31_1743191_1_">
+		
+			<use xlink:href="#Disconnector_JX_4_x40_1"  width="8.416" height="2.117" x="-4.208" y="-1.059" transform="matrix(3.244341e-017 -0.5298 0.5298 3.244341e-017 207.5703 485.9658)" overflow="visible"/>
+	</g>
+	<g id="_x31_1743192_1_">
+		
+			<use xlink:href="#Disconnector_JX_4_x40_0"  width="6.886" height="2.944" x="-3.443" y="-1.472" transform="matrix(3.966021e-017 -0.6476 0.6476 3.966021e-017 214.7222 486.0977)" overflow="visible"/>
+	</g>
+	<g id="_x31_1743193_1_">
+		
+			<use xlink:href="#Disconnector_JX_4_x40_1"  width="8.416" height="2.117" x="-4.208" y="-1.059" transform="matrix(3.244341e-017 -0.5298 0.5298 3.244341e-017 221.8701 485.9658)" overflow="visible"/>
+	</g>
+	<g id="_x31_1744332_1_">
+		
+			<use xlink:href="#Disconnector_JX_4_x40_1"  width="8.416" height="2.117" x="-4.208" y="-1.059" transform="matrix(3.244341e-017 -0.5298 0.5298 3.244341e-017 214.6743 489.7061)" overflow="visible"/>
+	</g>
+</g>
+<g id="_x31_1743218_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 208.1748 492.4063)" overflow="visible"/>
+</g>
+<g id="_x31_1743219_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 215.2129 492.5693)" overflow="visible"/>
+</g>
+<g id="_x31_1743220_1_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 222.4087 492.3711)" overflow="visible"/>
+</g>
+<g id="_x31_1743072_1_">
+	<path fill="none" stroke="#0068BF" stroke-width="0.4" d="M201.259,480.377l36.067,0.244v21.739l-36.067-0.244V480.377"/>
+</g>
+<g id="Breaker_Layer_1_">
+	<g id="_x31_1744266_1_">
+		
+			<use xlink:href="#Breaker_JX_0_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(1.761589e-017 -0.2877 0.2877 1.761589e-017 207.5278 489.5527)" overflow="visible"/>
+	</g>
+	<g id="_x31_1744363_1_">
+		
+			<use xlink:href="#Breaker_JX_0_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(1.761589e-017 -0.2877 0.2877 1.761589e-017 221.833 489.5527)" overflow="visible"/>
+	</g>
+</g>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M221.504,494.43"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M301.009,479.247"/>
+<g id="_x31_1754171_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M298.873,495.64"/>
+</g>
+<g id="_x31_1753221_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M313.303,500.411"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" stroke-dasharray="0.4,0.4" d="M313.303,496.344"/>
+</g>
+<g id="_x31_6482549_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M284.644,487.608v-0.094"/>
+</g>
+<g id="_x31_6482550_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M291.794,487.741v-0.092"/>
+</g>
+<g id="_x31_6482551_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M298.944,487.608v-0.094"/>
+</g>
+<g id="_x33_4258642_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M291.713,493.576l-0.01-0.11l0.005,0.059l-0.005,1.017v-1.069v2.143"/>
+</g>
+<g id="_x33_4258643_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M298.861,493.424l0.005-0.186v0.094l0.005,1.108v1.196l-0.005-2.398"/>
+</g>
+<g id="_x33_4258644_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M306.105,491.89"/>
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M306.105,489.749"/>
+</g>
+<g id="_x33_4258652_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M284.583,495.554l0.015-2.335l-0.005,1.168l-0.015-1.063l-0.02,0.104
+		l0.041-0.204"/>
+</g>
+<g id="_x31_1743185_2_">
+	<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M283.099,485.672l19.243-0.024"/>
+</g>
+<g id="Disconnector_Layer_2_">
+	<g id="_x31_1743191_2_">
+		
+			<use xlink:href="#Disconnector_JX_4_x40_1"  width="8.416" height="2.117" x="-4.208" y="-1.059" transform="matrix(3.244341e-017 -0.5298 0.5298 3.244341e-017 284.6411 487.6064)" overflow="visible"/>
+	</g>
+	<g id="_x31_1743192_2_">
+		
+			<use xlink:href="#Disconnector_JX_4_x40_0"  width="6.886" height="2.944" x="-3.443" y="-1.472" transform="matrix(3.966021e-017 -0.6476 0.6476 3.966021e-017 291.793 487.7383)" overflow="visible"/>
+	</g>
+	<g id="_x31_1743193_2_">
+		
+			<use xlink:href="#Disconnector_JX_4_x40_1"  width="8.416" height="2.117" x="-4.208" y="-1.059" transform="matrix(3.244341e-017 -0.5298 0.5298 3.244341e-017 298.9404 487.6064)" overflow="visible"/>
+	</g>
+	<g id="_x31_1744332_2_">
+		
+			<use xlink:href="#Disconnector_JX_4_x40_1"  width="8.416" height="2.117" x="-4.208" y="-1.059" transform="matrix(3.244341e-017 -0.5298 0.5298 3.244341e-017 291.7451 491.3467)" overflow="visible"/>
+	</g>
+</g>
+<g id="_x31_1743218_2_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 285.2456 494.0469)" overflow="visible"/>
+</g>
+<g id="_x31_1743219_2_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 292.2837 494.21)" overflow="visible"/>
+</g>
+<g id="_x31_1743220_2_">
+	
+		<use xlink:href="#GroundDisconnector_JX_0_x40_0"  width="4.335" height="3.083" x="-2.168" y="-1.541" transform="matrix(2.699157e-017 0.4408 -0.4408 2.699157e-017 299.4795 494.0117)" overflow="visible"/>
+</g>
+<g id="_x31_1743072_2_">
+	<path fill="none" stroke="#0068BF" stroke-width="0.4" d="M278.33,482.018l36.066,0.244v21.739l-36.066-0.244V482.018"/>
+</g>
+<g id="Breaker_Layer_2_">
+	<g id="_x31_1744266_2_">
+		
+			<use xlink:href="#Breaker_JX_0_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(1.761589e-017 -0.2877 0.2877 1.761589e-017 284.5986 491.1934)" overflow="visible"/>
+	</g>
+	<g id="_x31_1744363_2_">
+		
+			<use xlink:href="#Breaker_JX_0_x40_1"  width="8.514" height="4.65" x="-4.257" y="-2.325" transform="matrix(1.761589e-017 -0.2877 0.2877 1.761589e-017 298.9043 491.1934)" overflow="visible"/>
+	</g>
+</g>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M298.575,496.07"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M195.941,452.757l-0.293,53.817l11.875-0.354v-13.008"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M268.786,452.654l-0.191,56.271l16.119-0.354v-13.008"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M106.01,455.629l-0.012,11.646l30.331-0.118l0.32-15.402"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M77.167,428.573l-0.79,39.729l15.438-0.379l0.32-15.402"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M107.243,428.573l-0.061-21.9"/>
+<path fill="none" stroke="#00FF00" stroke-width="0.4" d="M77.167,428.573h30.076"/>
+</svg>

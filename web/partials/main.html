@@ -1,0 +1,90 @@
+
+<div class="col-md-6">
+    <div class="content" style="width:100%;height:450px;margin:30px auto;overflow:hidden;">
+        <div id="slider">
+            <a href="#"><img src="resources/img/demo1.jpg" alt="Picture information 1" text="图片1更详细的描述文字"/></a>
+            <a href="#"><img src="resources/img/demo2.jpg" alt="Picture information 1" text="图片1更详细的描述文字"/></a>
+            <a href="#"><img src="resources/img/demo3.jpg"/></a>
+        </div>
+    </div>
+    <div id="chuli" style="width: 800px;height:600px;margin:100px;overflow:hidden;">
+
+    </div>
+    <div style="visibility: hidden">
+        <div class="navi_body">
+            <div class="navi_head">
+                <div style="width:70%; margin-left:auto; margin-right:auto;">
+					<span>
+						<p class="navi_title">道滘变电站</p>
+                        <p><a href="#/view/svgpfdetail/jichuanxian">济川线</a></p>
+						<p><a href="#/view/svgpfdetail/nanchengxian">南城线</a></p>
+						<p><a href="#/view/svgpfdetail/lvyongxian">律涌线</a></p>
+                        <p><a href="#/view/svgpfdetail/zhakouxian">闸口线</a></p>
+                        <p><a href="#/view/svgpfdetail/chengquxian">城区线</a></p>
+                        <p><a href="#/view/svgpfdetail/bailuxian">白路线</a></p>
+                        <p><a href="#/view/svgpfdetail/caibaixian">蔡白线</a></p>
+					</span>
+					<span>
+						<p class="navi_title">江城变电站</p>
+						<p><a href="">振兴南线</a></p>
+						<p><a href="">西城线</a></p>
+						<p><a href="">稍潭线</a></p>
+						<p><a href="">东二横线</a></p>
+						<p><a href="">江下线</a></p>
+						<p><a href="">宝华线</a></p>
+                        <p><a href="">东三横线</a></p>
+					</span>
+					<span>
+						<p class="navi_title">宏远变电站</p>
+						<p><a href="">上滘线</a></p>
+						<p><a href="">万怡线</a></p>
+						<p><a href="">亨美线</a></p>
+						<p><a href="">英系线</a></p>
+						<p><a href="">新石线</a></p>
+						<p><a href="">碧水线</a></p>
+						<p><a href="">蓝天线</a></p>
+					</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-6">
+    <ul class="list-group" style="width:1000px;height:450px;margin:30px auto;overflow:hidden;">
+        <li class="list-group-item" ng-repeat="region in main.regions">
+            <h1 style="font-family:Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;font-size: 200%"><b>{{region.name}}</b></h1>
+            <div>
+                &nbsp&nbsp&nbsp&nbsp<img ng-src="{{region.img}}">&nbsp&nbsp&nbsp&nbsp
+                <b style="font-size: 130%">{{region.name}}&nbsp&nbsp的区域风险等级为&nbsp&nbsp{{region.description}}&nbsp级。</b>
+            </div>
+        </li>
+    </ul>
+    <div class="container" style="margin-right:100px;margin-top:50px;margin-left:30px;width:95%">
+        <div class="row">
+            <div class="row" style="overflow-y:scroll;height: 480px;" ng-hide="enableInfo">
+                <table ng-table="tableParams" class="table table-hover table-bordered">
+                    <thead>
+                    <tr>
+                        <th>预警设备ID</th>
+                        <th>预警设备名称</th>
+                        <th>预警种类</th>
+                        <th>详细信息</th>
+                    </tr>
+                    </thead>
+                    <tbody ng-repeat="risk in main.risk">
+                    <tr class="text-center">
+                        <td>{{risk.KAIGUAN_ID}}</td>
+                        <td>{{risk.NAME}}</td>
+                        <td>{{risk.KAIGUAN_IMPORTANCE}}</td>
+                        <td>{{risk.XINXI}}</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,36 @@
+{
+  "name": "ng-blockUI",
+  "homepage": "https://github.com/safiyu/ng-blockUI",
+  "authors": [
+    "Safiyu <dheensafiyu@gmail.com>"
+  ],
+  "description": "an angular version of blockUI",
+  "main": "ngBlockui.js",
+  "keywords": [
+    "ngBlockui",
+    "blockUI",
+    "BlockUI",
+    "Blockui",
+    "blockui",
+    "angular",
+    "blockui",
+    "angular-blockui",
+    "ngBlockUI",
+    "ng-blockUI"
+  ],
+  "license": "none",
+  "ignore": [],
+  "dependencies": {
+    "angular": "1.0.7"
+  },
+  "_release": "5b1741f626",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "5b1741f62671c984867d32455152452ec3e75cea"
+  },
+  "_source": "git://github.com/safiyu/ng-blockUI.git",
+  "_target": "*",
+  "_originalSource": "ng-blockUI",
+  "_direct": true
+}

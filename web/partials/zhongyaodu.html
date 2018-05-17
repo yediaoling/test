@@ -1,0 +1,37 @@
+    <div temperature style="height: 800px">
+
+    </div>
+
+    <div class="col-md-2" style="opacity: 0;">
+
+    </div>
+    <div class="col-md-8" style="visibility: hidden;">
+        <table ng-table="zyd.risk_access" class="table table-hover" template-pagination="custom/pager">
+            <caption>
+                <h1 class="text-center">10kV出线N-1重要度评估结果</h1>
+            </caption>
+            <tr ng-repeat="riskinfo in $data" ng-click="zyd.refresh()">
+                <td data-title="'线路编号'" class="text-center">{{riskinfo.ACLINE_ID}}</td>
+                <td data-title="'线路长度'" class="text-center">{{riskinfo.LENGTH}}</td>
+                <td data-title="'线路名称'" class="text-center">{{riskinfo.NAME}}</td>
+                <td data-title="'分段能力评估结果'" class="text-center">""</td>
+            </tr>
+        </table>
+        <script type="text/ng-template" id="custom/pager">
+            <ul class="pager ng-cloak">
+                <li ng-repeat="page in pages"
+                    ng-class="{'disabled': !page.active, 'previous': page.type == 'prev', 'next': page.type == 'next'}"
+                    ng-switch="page.type">
+                    <a ng-switch-when="prev" ng-click="params.page(page.number)" href="" >&laquo; Previous</a>
+                    <a ng-switch-when="first" ng-click="params.page(page.number)" href="" >{{page.number}}</a>
+                    <a ng-switch-when="page" ng-click="params.page(page.number)" href="" >{{page.number}}</a>
+                    <a ng-switch-when="more" ng-click="params.page(page.number)" href="" >…</a>
+                    <a ng-switch-when="last" ng-click="params.page(page.number)" href="" >{{page.number}}</a>
+                    <a ng-switch-when="next" ng-click="params.page(page.number)" href="" >Next &raquo;</a>
+                </li>
+            </ul>
+        </script>
+    </div>
+    <div class="col-md-2">
+
+    </div>
