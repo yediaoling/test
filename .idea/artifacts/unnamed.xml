@@ -2,7 +2,13 @@
   <artifact type="exploded-war" name="unnamed">
     <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
     <root id="root">
-      <element id="dir-copy" path="C:/Program Files/apache-tomcat-7.0.88-windows-x86/apache-tomcat-7.0.88/webapps" />
+      <element id="dir-copy" path="C:/Program Files/apache-tomcat-8.0.52-windows-x86/apache-tomcat-8.0.52/webapps" />
+      <element id="dir-copy" path="C:/Program Files/apache-tomcat-8.0.52-windows-x86/apache-tomcat-8.0.52/webapps/ROOT" />
+      <element id="dir-copy" path="$PROJECT_DIR$/web/WEB-INF" />
+      <element id="module-output" name="test" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+      <element id="dir-copy" path="$PROJECT_DIR$/target" />
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
     </root>
   </artifact>
 </component>

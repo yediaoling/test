@@ -1,7 +1,9 @@
 <component name="libraryTable">
   <library name="classes">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/web/WEB-INF/classes" />
+      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib/classes" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/Ice.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/json-1.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
